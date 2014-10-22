@@ -162,7 +162,7 @@
 #define HEATER_0_MAXTEMP 275
 #define HEATER_1_MAXTEMP 275
 //#define HEATER_2_MAXTEMP 275
-#define BED_MAXTEMP 130
+#define BED_MAXTEMP 150
 
 // If your bed has low resistance e.g. .6 ohm and throws the fuse you can duty cycle it to reduce the
 // average current. The value should be an integer and the heat bed will be turned on for 1 interval of
@@ -226,9 +226,9 @@
 
 #ifdef PIDTEMPBED
 //400W (350mmX350mm)heated silicon mat from Alirubber, 1/8" heat spreader
-    #define  DEFAULT_bedKp 290.10
-    #define  DEFAULT_bedKi 47.60
-    #define  DEFAULT_bedKd 442.03
+    #define  DEFAULT_bedKp 450.13
+    #define  DEFAULT_bedKi 70.81
+    #define  DEFAULT_bedKd 715.36
 
 //120v 250W silicone heater into 4mm borosilicate (MendelMax 1.5+)
 //from pidautotune
@@ -276,15 +276,15 @@ your extruder heater takes 2 minutes to hit the target on heating.
 // uncomment the 2 defines below:
 
 // Parameters for all extruder heaters
-//#define THERMAL_RUNAWAY_PROTECTION_PERIOD 60 //in seconds
-//#define THERMAL_RUNAWAY_PROTECTION_HYSTERESIS 6 // in degree Celsius
+#define THERMAL_RUNAWAY_PROTECTION_PERIOD 60 //in seconds
+#define THERMAL_RUNAWAY_PROTECTION_HYSTERESIS 6 // in degree Celsius
 
 // If you want to enable this feature for your bed heater,
 // uncomment the 2 defines below:
 
 // Parameters for the bed heater
-//#define THERMAL_RUNAWAY_PROTECTION_BED_PERIOD 40 //in seconds
-//#define THERMAL_RUNAWAY_PROTECTION_BED_HYSTERESIS 4 // in degree Celsius
+#define THERMAL_RUNAWAY_PROTECTION_BED_PERIOD 40 //in seconds
+#define THERMAL_RUNAWAY_PROTECTION_BED_HYSTERESIS 4 // in degree Celsius
 //===========================================================================
 
 
