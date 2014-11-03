@@ -120,7 +120,7 @@
 // 11 is 100k beta 3950 1% thermistor (4.7k pullup)
 // 12 is 100k 0603 SMD Vishay NTCS0603E3104FXT (4.7k pullup) (calibrated for Makibox hot bed)
 // 20 is the PT100 circuit found in the Ultimainboard V2.x
-// 60 is 320mm x 320mm x 400W Heated Bed From Ali Rubber in China (beta=3950)
+// 60 is 380mm x 380mm x 800W 120v Heated Bed From Ali Rubber in China (beta=3950)
 //
 //    1k ohm pullup tables - This is not normal, you would have to have changed out your 4.7k for 1k
 //                          (but gives greater accuracy and more stable PID)
@@ -222,13 +222,13 @@
 // all forms of bed control obey this (PID, bang-bang, bang-bang with hysteresis)
 // setting this to anything other than 255 enables a form of PWM to the bed just like HEATER_BED_DUTY_CYCLE_DIVIDER did,
 // so you shouldn't use it unless you are OK with PWM on your bed.  (see the comment on enabling PIDTEMPBED)
-#define MAX_BED_POWER 255 // limits duty cycle to bed; 255=full current
+#define MAX_BED_POWER 220 // limits duty cycle to bed; 255=full current
 
 #ifdef PIDTEMPBED
-//400W (350mmX350mm)heated silicon mat from Alirubber, 1/8" heat spreader
-    #define  DEFAULT_bedKp 450.13
-    #define  DEFAULT_bedKi 70.81
-    #define  DEFAULT_bedKd 715.36
+//800W-120V-380mmX380mm heated silicon mat from Alirubber, used with 1/4" aluminum heat spreader and 4mm glass
+    #define  DEFAULT_bedKp 213.10
+    #define  DEFAULT_bedKi 40.64
+    #define  DEFAULT_bedKd 279.32
 
 //120v 250W silicone heater into 4mm borosilicate (MendelMax 1.5+)
 //from pidautotune
@@ -517,10 +517,10 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 // M501 - reads parameters from EEPROM (if you need reset them after you changed them temporarily).
 // M502 - reverts to the default "factory settings".  You still need to store them in EEPROM afterwards if you want to.
 //define this to enable EEPROM support
-#define EEPROM_SETTINGS
+//#define EEPROM_SETTINGS
 //to disable EEPROM Serial responses and decrease program space by ~1700 byte: comment this out:
 // please keep turned on if you can.
-#define EEPROM_CHITCHAT
+//#define EEPROM_CHITCHAT
 
 // Preheat Constants
 #define PLA_PREHEAT_HOTEND_TEMP 180
