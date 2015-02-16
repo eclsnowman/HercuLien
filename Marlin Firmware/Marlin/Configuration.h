@@ -159,10 +159,10 @@
 // When temperature exceeds max temp, your heater will be switched off.
 // This feature exists to protect your hotend from overheating accidentally, but *NOT* from thermistor short/failure!
 // You should use MINTEMP for thermistor short/failure protection.
-#define HEATER_0_MAXTEMP 275
-#define HEATER_1_MAXTEMP 275
+#define HEATER_0_MAXTEMP 285
+#define HEATER_1_MAXTEMP 285
 //#define HEATER_2_MAXTEMP 275
-#define BED_MAXTEMP 150
+#define BED_MAXTEMP 160
 
 // If your bed has low resistance e.g. .6 ohm and throws the fuse you can duty cycle it to reduce the
 // average current. The value should be an integer and the heat bed will be turned on for 1 interval of
@@ -247,8 +247,8 @@
 //if PREVENT_DANGEROUS_EXTRUDE is on, you can still disable (uncomment) very long bits of extrusion separately.
 //#define PREVENT_LENGTHY_EXTRUDE
 
-#define EXTRUDE_MINTEMP 160
-//#define EXTRUDE_MAXLENGTH 1500 //prevent extrusion of very large distances.
+#define EXTRUDE_MINTEMP 150
+#define EXTRUDE_MAXLENGTH 1000 //prevent extrusion of very large distances.
 
 /*================== Thermal Runaway Protection ==============================
 This is a feature to protect your printer from burn up in flames if it has
@@ -476,13 +476,13 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 
 //// MOVEMENT SETTINGS
 #define NUM_AXIS 4 // The axis order in all axis related arrays is X, Y, Z, E
-#define HOMING_FEEDRATE {60*60, 60*60, 10*60, 0}  // set the homing speeds (mm/min)
+#define HOMING_FEEDRATE {70*60, 70*60, 12*60, 0}  // set the homing speeds (mm/min)
 
 // default settings
 
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,2880,477}  // default steps per unit for Ultimaker (Hercustruder = 580, Bondtech = 477)
-#define DEFAULT_MAX_FEEDRATE          {500, 500, 10, 25}    // (mm/sec)
-#define DEFAULT_MAX_ACCELERATION      {9000,9000,100,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for Skeinforge 40+, for older versions raise them a lot.
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,2880,486}  // default steps per unit for Ultimaker (Hercustruder = 580, Bondtech BETA 1 = 486)
+#define DEFAULT_MAX_FEEDRATE          {400, 400, 12, 45}    // (mm/sec)
+#define DEFAULT_MAX_ACCELERATION      {9000,9000,80,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for Skeinforge 40+, for older versions raise them a lot.
 
 #define DEFAULT_ACCELERATION          4000    // X, Y, Z and E max acceleration in mm/s^2 for printing moves
 #define DEFAULT_RETRACT_ACCELERATION  4000   // X, Y, Z and E max acceleration in mm/s^2 for retracts
@@ -517,14 +517,14 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 // M501 - reads parameters from EEPROM (if you need reset them after you changed them temporarily).
 // M502 - reverts to the default "factory settings".  You still need to store them in EEPROM afterwards if you want to.
 //define this to enable EEPROM support
-//#define EEPROM_SETTINGS
+#define EEPROM_SETTINGS
 //to disable EEPROM Serial responses and decrease program space by ~1700 byte: comment this out:
 // please keep turned on if you can.
 //#define EEPROM_CHITCHAT
 
 // Preheat Constants
 #define PLA_PREHEAT_HOTEND_TEMP 180
-#define PLA_PREHEAT_HPB_TEMP 65
+#define PLA_PREHEAT_HPB_TEMP 70
 #define PLA_PREHEAT_FAN_SPEED 255   // Insert Value between 0 and 255
 
 #define ABS_PREHEAT_HOTEND_TEMP 230
