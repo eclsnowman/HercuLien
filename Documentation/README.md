@@ -52,7 +52,7 @@ Main Frame
  * 6x M5 x 8mm Flat Head Socket Cap Screws
  * 16x M5 x 8mm Button Head Screws
 
-## Steps
+## Prep
 
  1. The BOM lists a 1 meter section of V-Slot, if you haven't cut the V-Slot you should do that now.
     * To cut the V-Slot you can use any saw or cutting wheel capable of cutting through a 20x80 extrusion.
@@ -88,4 +88,52 @@ Main Frame
     ![alt text](https://raw.githubusercontent.com/imsplitbit/HercuLien/master/Documentation/Photos/IMG_20150220_141252.jpg "20x20 Extrusion Label")
   
   
-  4. 
+  4. Locate the 4 20x20 extrusions to be used at vertical supports for the main frame.
+  
+  
+  5. Using 3 M5x8mm button head screws and 2 T-Slot nuts attach the 20x20 extrusion drill guide to one end of the extrusion.
+  
+     Examples: ![alt text](./Photos/1424094009658.jpg "20x20 Extrusion Drill Guide 1")
+               ![alt text](./Photos/1424094010046.jpg "20x20 Extrusion Drill Guide 2")
+  
+  
+  6. Using the 5mm drill bit, drill all 8 holes using the raised drill guide holes.
+     
+     Result: ![alt text](./Photos/IMG_20150220_155826.jpg "20x20 Extrusion drilled")
+  
+  
+  7. Repeat this process for the other end of the extrusion and then for the remaining 3 verticals.
+  
+  
+  8.  Locate the two 20x80 extrusions marked "Bottom Right" and "Bottom Left"
+  
+  
+  9.  Beginning with one of these, use 4 M5x8mm button head screws and 4 T-Slot nuts attach the 20x80 8 hole drill guide but do not tighten down.
+  
+  
+  10. Measure from one end of the extrusion 215mm and slide the drill guide over until the very edge of it lines up with that line.
+  
+  
+  11. Tighten the drill guide down and double check your measurement until it is **EXACT**
+  
+  
+  12. Drill all 8 holes using the 5mm drill bit.
+  
+  
+  13. Repeat for the other piece making sure your measurements are **EXACT**
+  
+  
+  14. Orient the two pieces standing on their 20mm side on the floor or other flat surface keeping the perspective that you are looking at the completed chassis from the front.  e.g. "Bottom Left" goes to your left and "Bottom right" goes to your right.
+  
+  
+  15. Ensure the 2 rows of holes you just drilled are nearest the top of the extrusion and the side measured 215mm from edge to the drill guide is placed facing you.
+  
+  
+  16. Now using the masking tape and markers label the inside face of each so that the orientation is clear.
+      
+      Result: ![alt text](./Photos/IMG_20150220_161343.jpg "20x80mm Extrusion Bottom Right")
+              ![alt text](./Photos/IMG_20150220_161352.jpg "20x80mm Extrusion Bottom Left")
+              ![alt text](./Photos/IMG_20150220_161413.jpg "20x80mm Extrusions properly oriented")
+   
+   
+   17. 
