@@ -27,6 +27,17 @@ Tools Required
  * 8mm drill bit
  * 7/8" drill bit
  * 1/2" End mill
+ 
+Metal Preparation
+=================
+
+ 1. Using the 5mm x .8 thread tap, tap all of the regular 20x80 extrusion end holes
+    * Use cutting oil
+    * Go Slow
+    * You can either do by hand or using a drill.  If you use a drill you must take it VERY slow as you can easily break the tap bit.
+ 
+    Example:
+    [![How to tap an aluminum extrusion](http://img.youtube.com/vi/5AQUodkQZbg/0.jpg)](https://www.youtube.com/watch?v=5AQUodkQZbg)
 
 Main Frame
 ==========
@@ -40,6 +51,8 @@ Main Frame
  * 160x M5 x 10mm Button Head Screws
  * 6x M5 x 8mm Flat Head Socket Cap Screws
  * 16x M5 x 8mm Button Head Screws
+
+## Steps
 
  1. The BOM lists a 1 meter section of V-Slot, if you haven't cut the V-Slot you should do that now.
     * To cut the V-Slot you can use any saw or cutting wheel capable of cutting through a 20x80 extrusion.
@@ -64,8 +77,15 @@ Main Frame
     Example:
     ![alt text](https://raw.githubusercontent.com/imsplitbit/HercuLien/master/Documentation/Photos/IMG_20150220_141237.jpg "20x80 Extrusion Label")
  
+ 
  3. Using your marker and masking tape, label each of the 4 20x20 extrusions with the following labels.
     * Front Right
     * Rear Right
     * Front Left
     * Rear Left
+    
+    Example:
+    ![alt text](https://raw.githubusercontent.com/imsplitbit/HercuLien/master/Documentation/Photos/IMG_20150220_141252.jpg "20x20 Extrusion Label")
+  
+  
+  4. 
