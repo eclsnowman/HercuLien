@@ -49,7 +49,9 @@ Main Frame
       to square the verticals for the Z Gantry rails to be perpendicular to the center rail.
     
  2. Using your marker and masking tape, label each of the 9 20x80 extrusions using the following labels.  These labels aren't necessary
-    but will make things easier in the following steps to keep things in order.
+    but will make things easier in the following steps to keep things in order.  It also helps to indicate which end it up, I use arrows
+    on the masking labels.
+    
     * Top Front
     * Top Rear
     * Top Right
@@ -58,6 +60,9 @@ Main Frame
     * Bottom Rear
     * Bottom Right
     * Bottom Left
+    
+    Example:
+    ![alt text](https://raw.githubusercontent.com/imsplitbit/HercuLien/master/Documentation/Photos/IMG_20150220_141237.jpg "20x80 Extrusion Label")
  
  3. Using your marker and masking tape, label each of the 4 20x20 extrusions with the following labels.
     * Front Right
