@@ -73,6 +73,7 @@ Main Frame
     * Bottom Rear
     * Bottom Right
     * Bottom Left
+    * Center Rail
     
     Example:
     ![alt text](./Photos/IMG_20150220_141237.jpg "20x80 Extrusion Label")
@@ -123,4 +124,56 @@ Main Frame
               ![alt text](./Photos/IMG_20150220_161352.jpg "20x80mm Extrusion Bottom Left")
               ![alt text](./Photos/IMG_20150220_161413.jpg "20x80mm Extrusions properly oriented")
    
- 17. 
+ 17. Locate the 20x80 extrusion pieces marked "Bottom Front" and "Bottom Rear"
+ 
+ 18. Orient the pieces on the floor or flat surface with the 2 bottom left and right extrusions with one 20mm side lying flat on the surface.
+ 
+     Example: ![alt text](./Photos/IMG_20150220_175620.jpg "20x80mm Extrusions oriented correctly")
+ 
+ 19. Using the marker and masking tape, label the inside of each and use an drawn arrow to indicate which way is up.
+ 
+ 20. On the piece marked "Bottom Rear" insert 2 T-Slot nuts in the top row of the innermost side.  Insert 4 T-Slot nuts in the row below that.  Insert 2 T-Slot nuts in the row below that.  Use M5x10mm button head screws hand tightened to hold them in place.
+ 
+     Example: ![alt text](./Photos/IMG_20150220_175640.jpg "Bottom Rear Extrusion Nuts Installed")
+
+ 21. On the piece marked "Bottom Front" insert 1 T-Slot nut on the top row of the innermost side.  Insert 1 T-Slot nut in the row below that.  Use M5x10mm button head screws, hand tightened, to hole them in place.
+ 
+     Example: ![alt text](./Photos/IMG_20150220_175717.jpg "Bottom Front Extrusion Nuts Installed")
+ 
+ 22. On the piece marked "Bottom Right" insert 3 T-Slot nuts on the top row and use M5x10mm button top screws, hand tightened, to hold them in place.
+     
+     Example: ![alt text](./Photos/IMG_20150220_175657.jpg "Bottom Right Extrusion Nuts installed")
+ 
+ 23. Thread M5x10mm button head screws into each of the 4 holes on each end of the 4 bottom 20x80mm extrusions placed on the flat surface from earlier.  Thread the screws in until there is only approximately 3-4mm of thread showing.
+ 
+     Example: ![alt text](./Photos/IMG_20150220_183040.jpg "Extrusion end screws installed")
+ 
+ 24. Locate the 20x80 extrusion labeled "Center Rail"
+ 
+ 25. Thread M5x10mm button head screws in the 4 holes in each of the ends of the "Center Rail" leaving only about 3-4mm of thread showing.
+ 
+ 26. Slide one side of the center rails button head screws in the bottom left 20x80 extrusion's second from the top slot and visually line it up with the 4 holes that are drilled in the bottom left piece.
+ 
+ 27. Using your measuring tool measure 215mm from the front edge of the "Bottom Left" 20x80mm extrusion to the edge of the "Center Rail".
+ 
+ 28. Passing the 2.5mm hex wrench through the holes in the opposite side of the "Front Left" extrusion tighten the button head screws on the "Center Rail" locking them in place.  Be sure to double check your measurements.
+ 
+ 29. The Front of the Center rail is now the side measured 215mm away from the front edge of the supporting extrusion.  If it helps you to keep track of these things use the masking tape and marker to label the side that is front.
+ 
+ 30. On the front side of the center rail insert 2 T-Slot nuts and use 2 M5x10mm button head screws, hand tightened, to hold them in place. On the top of the "Center Rail" in the first of four slots insert 4 T-Slot nuts with M5x10mm button head screws to hold them in place.  Do the same for the second from the front edge slot.  Skip the third slot and on the foourth slot from the front insert 2 T-Slot Nuts with 2 M5x10mm button head screws to hole them in place.
+ 
+ 31. Now repeat step 26-28 for the other side of the Center Rail, securing the Center Rail to the "Bottom Right" 20x80mm extrusion.
+ 
+ 24. Locate the 4 20x20 extrusions that are 609.5mm long.  These are the verticals to hold everything upright.
+ 
+ 25. Find the 20x80 extrusions marked "Bottom Front" and "Bottom Left" and use the 20x20 vertical marked "Front Left" for the next step.
+ 
+ 26. Slide button head screws at the end of the "Bottom Front" 20x80 extrusion's left side into the slot of the 20x20mm extrusion and then do the same with the 20x80mm "Bottom Left" extrusion at a right angle to the "Bottom Front" extrusion.  See picture for example.
+     
+     Example: ![alt text](./Photos/IMG_20150214_123942.jpg "Building a corner")
+ 
+ 27. Use your 2.5mm hex wrench to tighten the button head screws by passing the wrench through the holes drilled in the 20x20 extrusion.  **ENSURE** the bottom of the 20x80 extrusions are flush with the bottom of the vertical 20x20 extrusion.
+ 
+ 28. Repeat steps 25-27 for the 4 corners paying close attention to use the correct vertical per corner.  If you use the wrong one, you can switch their labels once you're finished.  The labeling matters in the coming steps.
+ 
+ 
