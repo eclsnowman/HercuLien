@@ -153,27 +153,39 @@ Main Frame
  25. Thread M5x10mm button head screws in the 4 holes in each of the ends of the "Center Rail" leaving only about 3-4mm of thread showing.
  
  26. Slide one side of the center rails button head screws in the bottom left 20x80 extrusion's second from the top slot and visually line it up with the 4 holes that are drilled in the bottom left piece.
- 
+     
+     Example: ![alt text](./Photos/IMG_20150220_215620.jpg "Attaching Center Rail to Bottom Left extrusion")
+     
  27. Using your measuring tool measure 215mm from the front edge of the "Bottom Left" 20x80mm extrusion to the edge of the "Center Rail".
+     
+     Example: ![alt text](./Photos/IMG_20150220_215705.jpg "Measuing Center Rail Placement")
  
  28. Passing the 2.5mm hex wrench through the holes in the opposite side of the "Front Left" extrusion tighten the button head screws on the "Center Rail" locking them in place.  Be sure to double check your measurements.
+ 
+     Example: ![alt text](./Photos/IMG_20150220_215904.jpg "Tightening the Center Rail")
  
  29. The Front of the Center rail is now the side measured 215mm away from the front edge of the supporting extrusion.  If it helps you to keep track of these things use the masking tape and marker to label the side that is front.
  
  30. On the front side of the center rail insert 2 T-Slot nuts and use 2 M5x10mm button head screws, hand tightened, to hold them in place. On the top of the "Center Rail" in the first of four slots insert 4 T-Slot nuts with M5x10mm button head screws to hold them in place.  Do the same for the second from the front edge slot.  Skip the third slot and on the foourth slot from the front insert 2 T-Slot Nuts with 2 M5x10mm button head screws to hole them in place.
- 
+     
+     Example: ![alt text](./Photos/IMG_20150220_215946.jpg "Setup T-Slot nuts for later mounting things")
+     
  31. Now repeat step 26-28 for the other side of the Center Rail, securing the Center Rail to the "Bottom Right" 20x80mm extrusion.
  
- 24. Locate the 4 20x20 extrusions that are 609.5mm long.  These are the verticals to hold everything upright.
+     Example: ![alt text](./Photos/IMG_20150220_220036.jpg "Finished Center Rail")
  
- 25. Find the 20x80 extrusions marked "Bottom Front" and "Bottom Left" and use the 20x20 vertical marked "Front Left" for the next step.
+ 32. Locate the 4 20x20 extrusions that are 609.5mm long.  These are the verticals to hold everything upright.
  
- 26. Slide button head screws at the end of the "Bottom Front" 20x80 extrusion's left side into the slot of the 20x20mm extrusion and then do the same with the 20x80mm "Bottom Left" extrusion at a right angle to the "Bottom Front" extrusion.  See picture for example.
+ 33. Find the 20x80 extrusions marked "Bottom Front" and "Bottom Left" and use the 20x20 vertical marked "Front Left" for the next step.
+     
+     Example: ![alt text](./Photos/IMG_20150220_225212.jpg "Corner Vertical installed")
+     
+ 34. Slide button head screws at the end of the "Bottom Front" 20x80 extrusion's left side into the slot of the 20x20mm extrusion and then do the same with the 20x80mm "Bottom Left" extrusion at a right angle to the "Bottom Front" extrusion.  See picture for example.
      
      Example: ![alt text](./Photos/IMG_20150214_123942.jpg "Building a corner")
  
- 27. Use your 2.5mm hex wrench to tighten the button head screws by passing the wrench through the holes drilled in the 20x20 extrusion.  **ENSURE** the bottom of the 20x80 extrusions are flush with the bottom of the vertical 20x20 extrusion.
+ 35. Use your 2.5mm hex wrench to tighten the button head screws by passing the wrench through the holes drilled in the 20x20 extrusion.  **ENSURE** the bottom of the 20x80 extrusions are flush with the bottom of the vertical 20x20 extrusion.
  
- 28. Repeat steps 25-27 for the 4 corners paying close attention to use the correct vertical per corner.  If you use the wrong one, you can switch their labels once you're finished.  The labeling matters in the coming steps.
+ 36. Repeat steps 25-27 for the 4 corners paying close attention to use the correct vertical per corner.  If you use the wrong one, you can switch their labels once you're finished.  The labeling matters in the coming steps.
  
  
