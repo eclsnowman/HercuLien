@@ -22,7 +22,7 @@ Tools Required
  * Masking tape
  * Metric tap set (only a 5mm tap is required)
  * Drill
- * 2mm drill bit
+ * 1mm drill bit or equivalent imperial standard bit (This is just used for drilling pilot holes so it doesn't have to be precise but needs to be small enough to fit in the drill guide)
  * 5mm drill bit
  * 8mm drill bit
  * 7/8" drill bit
@@ -52,7 +52,7 @@ Main Frame
  * 6x M5 x 8mm Flat Head Socket Cap Screws
  * 16x M5 x 8mm Button Head Screws
 
-## Prep
+## Bottom Assembly
 
  1. The BOM lists a 1 meter section of V-Slot, if you haven't cut the V-Slot you should do that now.
     * To cut the V-Slot you can use any saw or cutting wheel capable of cutting through a 20x80 extrusion.
@@ -194,18 +194,85 @@ Main Frame
  
  38. Repeat steps 33-37 for the "Bottom Right" 20x80mm extrusion using the remaining V-Slot extrusion.
  
- 32. Locate the 4 20x20 extrusions that are 609.5mm long.  These are the verticals to hold everything upright.
+ 39. Locate the 4 20x20 extrusions that are 609.5mm long.  These are the verticals to hold everything upright.
  
- 33. Find the 20x80 extrusions marked "Bottom Front" and "Bottom Left" and use the 20x20 vertical marked "Front Left" for the next step.
+ 40. Find the 20x80 extrusions marked "Bottom Front" and "Bottom Left" and use the 20x20 vertical marked "Front Left" for the next step.
      
- 34. Slide button head screws at the end of the "Bottom Front" 20x80 extrusion's left side into the slot of the 20x20mm extrusion and then do the same with the 20x80mm "Bottom Left" extrusion at a right angle to the "Bottom Front" extrusion.  See picture for example.
+ 41. Slide button head screws at the end of the "Bottom Front" 20x80 extrusion's left side into the slot of the 20x20mm extrusion and then do the same with the 20x80mm "Bottom Left" extrusion at a right angle to the "Bottom Front" extrusion.  See picture for example.
      
      Example: ![alt text](./Photos/IMG_20150214_123942.jpg "Building a corner")
  
- 35. Use your 2.5mm hex wrench to tighten the button head screws by passing the wrench through the holes drilled in the 20x20 extrusion.  **ENSURE** the bottom of the 20x80 extrusions are flush with the bottom of the vertical 20x20 extrusion.
+ 42. Use your 2.5mm hex wrench to tighten the button head screws by passing the wrench through the holes drilled in the 20x20 extrusion.  **ENSURE** the bottom of the 20x80 extrusions are flush with the bottom of the vertical 20x20 extrusion.
      
      Example: ![alt text](./Photos/IMG_20150220_225212.jpg "Corner Vertical installed")
      
- 36. Repeat steps 25-27 for the 4 corners paying close attention to use the correct vertical per corner.  If you use the wrong one, you can switch their labels once you're finished.  The labeling matters in the coming steps.
+ 43. Repeat steps 25-27 for the 4 corners paying close attention to use the correct vertical per corner.  If you use the wrong one, you can switch their labels once you're finished.  The labeling matters in the coming steps.
+     
+     Example: ![alt text](./Photos/IMG_20150220_232801.jpg "All corners done, bottom assembly complete")
  
+## Top Assembly
+
+ 1. Locate the 20x80mm extrusion marked "Top Front" and lay it flat on one of it's 80mm sides in front of you.
  
+ 2. We will assume this is now the inside of the top front extrusion and the 20mm side furthest from you is the side that will be at the top of the finished chassis., mark it with the tape and marker.
+    
+    Example: ![alt text](./Photos/IMG_20150221_190037.jpg "Top Front extrusion properly labeled")
+    
+ 3. Locate 1 each of Corner Bearing Bracket A and B, these are printed parts.
+ 
+ 4. Place Corner Bearing Bracket B on the right side of the 80mm side facing you with the bearing support hole closest to the edge of the printed part laying flat on the extrusion.  Make sure the printed part is lined up against the right edge with the opposing bearing support hole vertical and flush with the edge.
+ 
+    Example: ![alt text](./Photos/IMG_20150221_190514.jpg "Corner Bearing Bracket B placed properly on extrusion")
+ 
+ 5. Locate the printed extrusion drill guide shown below.
+ 
+    Example: ![alt text](./Photos/IMG_20150221_190620.jpg "Pilot hole drill guide")
+ 
+ 6. Place this drill guide under the Corner Bearing bracket and make note of the hole you should be drilling, it will be in the center of the hole in the corner bearing bracket.  It should be the top most pilot hole on the drill guide.
+ 
+    Example: ![alt text](./Photos/IMG_20150221_190743.jpg "Drill guide placed under bearing bracket")
+             ![alt text](./Photos/IMG_20150221_190750.jpg "Drill this hole")
+ 
+ 7. Set the Corner Bearing Bracket B aside for later use.
+ 
+ 8. Using 4 M5x10mm button head screws secure the drill guide to the right edge of the extrusion.
+ 
+    Example: ![alt text](./Photos/IMG_20150221_191033.jpg "Screws in the 4 holes on this side")
+ 
+ 9. Using 2 T-Slot nuts and 2 M5x10mm button head Screws secure the 2 holes on the upper face of the drill guide to the extrusion.
+ 
+    Example: ![alt text](./Photos/IMG_20150221_191047.jpg "Secure these holes")
+ 
+ 10. If you have access to a drill press you would be best served using it for the next drilling steps but a hand drill used carefully will suffice.
+ 
+ 11. Drill the top most pilot hole using a small bit.
+ 
+ 12. Remove the drill guide and set the screws and T-Slot nuts aside.
+ 
+ 13. Using a slightly larger bit (I used a 5mm bit) drill out the pilot hole.
+ 
+ 14. Using your 1/2" end mill drill the final hole through the extrusion.
+ 
+     Example: ![alt text](./Photos/IMG_20150221_191712.jpg "Finished 1/2 inch hole")
+ 
+ 15. At this time you can choose to use a round file to clean up the drilled hole.
+ 
+ 16. Lay the extrusion down on a table or the floor in front of you with the labeled inside facing you and the top 20mm side facing away from you.
+ 
+     Example: ![alt text](./Photos/IMG_20150221_191836.jpg "Orient the extrusion correctly")
+ 
+ 17. In the slot closest you insert 8 T-Slot nuts and hand tighten 1 M5x10mm button head screw into each so that the T-Slot nuts do not slide around.
+ 
+ 18. In the slot above that insert 4 T-Slot nuts and hand tighten 1 M5x10mm button head screw into each so that the T-Slot nuts do not slide around.
+ 
+ 19. In the slot aboe that insert 2 T-Slot nuts and hand tighten 1 M5x10mm button head screw into each so that the T-Slot nuts do not slide around.
+ 
+ 20. In the top slot insert 4 T-Slot nuts and hand tighten 1 M5x10mm button head screw into each so that the T-Slot nuts do not slide around.
+
+     Example: ![alt text](./Photos/IMG_20150221_192157.jpg "Inserted T-Slot nuts")
+ 
+ 21. Thread M5x10mm button head screws into the 4 holes on each end of the extrusion.
+ 
+     Example: ![alt text](./Photos/IMG_20150221_192449.jpg "Ends threaded")
+ 
+ 22. Set this extrusion aside for later use.
