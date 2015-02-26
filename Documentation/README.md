@@ -463,14 +463,94 @@ Main Frame
  
  83. In the slot above this insert 2 T-Slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
  
- 84. In the slot above this insert 4 T-Slot nuts and seure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
+ 84. In the slot above this insert 4 T-Slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
  
  85. In the top most slot insert 4 T-Slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
  
- 86. The end result should look like this.
+ 86. Thread M5x10mm button head screws into the 4 holes on each end of the extrusion.
+ 
+     Example: ![alt text](./Photos/IMG_20150221_192449.jpg "Ends threaded")
+ 
+ 87. The end result should look like this.
  
      Example: ![alt text](./Photos/IMG_20150225_081726.jpg "Top Left 20x80mm extrusion finished")
  
- 87. Set this extrusion aside for later use.
+ 88. Set this extrusion aside for later use.
  
- 88. Locate the 20x80mm extrusion marked "Top Right" and lay it flat on one of it's 80mm sides in front of you.
+ 89. Locate the 20x80mm extrusion marked "Top Right" and lay it flat on one of it's 80mm sides in front of you.
+ 
+ 90. We will assume this is now the inside of the top rear extrusion and the 20mm side furthest from you is the side that will be at the top of the finished chassis., mark it with the tape and marker.
+ 
+     Example: ![alt text](./Photos/IMG_20150225_211121.jpg "Top Right properly labeled")
+ 
+ 91. Locate the drill guide shown below
+ 
+     Example: ![alt text](./Photos/IMG_20150225_084501.jpg "V-Slot support drill guide")
+ 
+ 92. With the 20x80mm Top Right extrusion sitting on the table in front of you with the inside side facing up and the 20mm side labeled as the top of the extrusion facing away from you place the drill guide on the bottom edge as shown.
+ 
+     Example: ![alt text](./Photos/IMG_20150225_213752.jpg "Drill guide placed this way")
+ 
+ 93. Measure **exactly** 215mm from the right edge of the extrusion and slide the edge of the drill guide to that point.
+ 
+     Example: ![alt text](./Photos/IMG_20150225_215111.jpg "Measuring 215mm to edge of the drill guide")
+ 
+ 94. Using 4 T-Slot nuts and 1 M5x8mm button head screw per nut secure the drill guide holes on this side taking special care to preserve the 215mm from the left edge.
+ 
+     Example: ![alt text](./Photos/IMG_20150225_084739.jpg "Secure these holes")
+ 
+ 95. You can optionally secure 2 to 4 of the holes on the top side of the drill guide but I've found that it isn't 100% necessary, I did this both ways and the result came out the same.
+ 
+ 96. Drill these 4 holes with a 5mm drill bit.
+ 
+     Example: ![alt text](./Photos/IMG_20150225_084748.jpg "Drill these holes")
+              ![alt text](./Photos/IMG_20150225_215219.jpg "Holes drilled")
+ 
+ 97. Place the 20x80mm Top Left extrusion sitting on the table in front of you with the inside side facing up and the 20mm side labeled as the top of the extrusion facing away from you.
+ 
+ 98. Locate 4 T-Slot Nuts and 4 M5x8mm button head screws.
+ 
+ 99. Thread the 8mm screws into the T-Slot nuts as shown below.
+ 
+     Example: ![alt text](./Photos/IMG_20150225_090755.jpg "8mm screws and T-Slot nuts")
+ 
+ 100. In the slot of the extrusion closest to you slide the 4 button head screw tops in like this.
+ 
+     Example: ![alt text](./Photos/IMG_20150225_215600.jpg "Center support screws inserted")
+ 
+ 101. On each side of these 4 screws insert 2 T-slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
+ 
+ 102. In the slot above this insert 2 T-Slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
+ 
+ 103. In the slot above this insert 4 T-Slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
+ 
+ 104. In the top most slot insert 6 T-Slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
+ 
+ 105. The end result should look like this.
+ 
+     Example: ![alt text](./Photos/IMG_20150225_215713.jpg "Top Right 20x80mm extrusion finished")
+ 
+ 106. Flip the extrusion over so that the outside side is facing up.
+ 
+      Example: ![alt text](./Photos/IMG_20150225_220609.jpg "Top Right outside labeled correctly")
+ 
+ 107. In the slot closest to you, the bottom most slot, insert 5 T-Slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
+ 
+ 108. In the top most slot on the outer side insert 5 T-Slot nuts and secure them with 1 M5x10mm button head screw each, hand tightened to keep them from sliding.
+ 
+ 109. Thread M5x10mm button head screws into the 4 holes on each end of the extrusion.
+ 
+     Example: ![alt text](./Photos/IMG_20150221_192449.jpg "Ends threaded")
+ 
+ 110. The end result should look like this.
+ 
+      Example: ![alt text](./Photos/IMG_20150225_221002.jpg "T-Slot nuts setup on outside of Top Rear")
+ 
+ 110. Set this extrusion aside for later use.
+
+## Putting it together
+
+ 1. Orient yourself looking at the front of the chassis.
+ 
+ 2. 
+ 
