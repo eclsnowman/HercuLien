@@ -548,9 +548,85 @@ Main Frame
  
  110. Set this extrusion aside for later use.
 
-## Putting it together
+## Power supply and switch plate
 
- 1. Orient yourself looking at the front of the chassis.
+ 1. Locate the printed part "Outlet Switch and Network Mount" and the Electrical fused plug part ordered from the BOM.
  
- 2. 
+    Example: ![alt text](./Photos/IMG_20150228_130830.jpg "Outlet Switch and Network Mount printed part")
+ 
+ 2. Slide the fused plug into the outlet switch and network mount printed part.
+ 
+    Example: ![alt text](./Photos/IMG_20150228_130840.jpg "Fused plug goes in this hole... obviously.")
+ 
+ 3. Mark the hole on either side of the fused plug for drilling and remove the fused plug from the printed part.
+ 
+ 4. Using a 3mm or equivalent drill bit, drill the 2 holes.
+ 
+ 5. Slide the fused plug back into the outlet switch and network mount plate and line up the holes in the fused plug with the drilled holes.
+ 
+ 6. Using an M3x12mm socket cap screw and an M3 lock nut secure the fused switch to the printed part for each hole.
+ 
+    Example: ![alt text](./Photos/IMG_20150228_133910.jpg "Fused plug secured in outlet switch mount")
+ 
+ 7. On the "Bottom Right" 20x80mm extrusion remove 2 of the M5x10mm button head screws from the 2 T-slot nuts closest to the right rear corner.
+ 
+ 8. Slide all T-Slot nuts out of the way of the rear corner to make it easier to slide them into place later.
+ 
+ 9. With the outlet switch printed part laying down on a flat surface with the switch side up, locate the 2 holes on the right side.
+ 
+    Example: ![alt text](./Photos/IMG_20150228_133046.jpg "These holes")
+ 
+ 10. Insert 1 M5x8mm button head screw in each hole from the inside.
+ 
+     Example: ![alt text](./Photos/IMG_20150228_133139.jpg "Screws here.")
+ 
+ 11. Thread 1 T-Slot nut on each screw to prepare the switch for securing into the rear right corner 20x20mm vertical extrusion.
+ 
+     Example: ![alt text](./Photos/IMG_20150228_133327.jpg "T-Slot nuts threaded properly")
+ 
+ 12. Slide the T-Slot nuts in the rear right vertical extrusion on the face that is facing the front of the chassis.
+ 
+     Example: ![alt text](./Photos/IMG_20150228_133442.jpg "Slide nuts into the rear right vertical extrusion.")
+ 
+ 13. Slide the printed part all the way down to the bottom and secure the 2 button head screws from the inside.
+ 
+ 14. Using a long hex wrench slide 1 T-Slot nut under the outlet switch and network mount printed part until it lines up with the rear most hole.
+ 
+ 15. Use 1 M5x8mm button head screw to secure this T-Slot nut.
+ 
+ 16. Repeat steps 14-15 for the other bottom hole of the outlet switch mount.
+ 
+     Example: ![alt text](./Photos/IMG_20150228_133910.jpg "Fused plug and outlet switch plate mounted.")
+ 
+ 17. Locate the power supply and 3 printed power supply brackets.
+ 
+     Example: ![alt text](./Photos/IMG_20150227_161250.jpg "Power supply mounting brackets")
+ 
+ 18. Place the power supply laying flat on a surface in front of you with the fan side down and the terminal side facing left.
+ 
+ 19. Using an M4x10mm screw secure the side of the 2 identical printed brackets to the bottom side of the power supply. This will be the side facing you.
+ 
+     Example: ![alt text](./Photos/IMG_20150227_161341.jpg "Brackets mounted")
+ 
+ 20. In the remaining power supply bracket insert 1 M5x8mm button head screw into each of the 2 holes on the extrusion mount side. Thread a T-Slot nut on each screw.
+ 
+     Example: ![alt text](./Photos/IMG_20150227_163152.jpg "Screws inserted into the bracket")
+ 
+ 21. On the side of the power supply facing away from you, top side, use an M4x8mm screw to secure the remaining printed bracket to the power supply.
+ 
+     Example: ![alt text](./Photos/IMG_20150227_161421.jpg "Bracket installed")
+ 
+ 22. Begin installing the power supply by sliding the 2 threaded T-Slot nuts into the rear right vertical extrusion on the left side of the extrusion.
+ 
+     Example: ![alt text](./Photos/IMG_20150227_163237.jpg "Installing the power supply")
+              ![alt text](./Photos/IMG_20150227_164151.jpg "Power supply slid down to the back right corner")
+ 
+ 23. Now is a great time to check the input voltage.  For the US set the switch to 115V.
+ 
+     Example: ![alt text](./Photos/IMG_20150227_164201.jpg "Setting the voltage")
+ 
+ 24. Using the T-Slot nuts installed in the front face of the rear bottom extrusion secure the remaining power supply brackets.
+ 
+     Example: ![alt text](./Photos/IMG_20150227_162033.jpg "Power supply secured")
+ 
  
