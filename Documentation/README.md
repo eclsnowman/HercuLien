@@ -629,4 +629,207 @@ Main Frame
  
      Example: ![alt text](./Photos/IMG_20150227_162033.jpg "Power supply secured")
  
+## Z-Gantry
+
+ Parts needed:
+    * 8 Openbuilds V-Slot wheel kits
+    * 8 1/4" eccentric spacers
+    * 8 M5x25mm button head screws
+    * 8 M5 15mm OD washer
+    * 2 Delrin lead screw nuts (See BOM for part number)
+    * 2 12mm lead screws (See BOM for part number")
+    * 4 608ZZ bearings
+    * 4 8mm shim washers
+    * 4 M5x25mm socket head cap screws
+    * 4 M5x16mm button head socket cap screws
+    * 2 36 tooth pulleys
+    * 2 Z Leadscrew top bearing holders
+    * 2 Z Leadscrew bottom bearing holders
+    * 8 M5x8mm button head screws
+    * 4 M5x10mm button head screws
+
+ 1. Locate the 2 Z-Gantry angle plates.
  
+ 2. Using the drawings below, make the necessary cuts and holes to both Z-Gantry Plates.
+ 
+    Drawings: ![alt text](./Drawings/Z-Gantry_Angle_plate_wheel_face.jpg "Wheel Face")
+              ![alt text](./Drawings/Z-Gantry_angle_plate_bottom.jpg "Bottom side")
+ 
+ 3. This would be a great time to paint the plates if you want to.
+ 
+    Example: ![alt text](./Photos/IMG_20150228_143323.jpg "Painted Z-Gantry Plate")
+ 
+ 4. Set one plate aside.
+ 
+ 5. With one Z gantry angle plate drilled and prepped (optionally painted) locate 1 M5x25mm button head screw, 1 V-Slot wheel kit 1 M5 15mm OD washer and 1 1/4" eccentric spacer.
+ 
+ 6. Assemble the wheel assembly as shown below.
+ 
+    Assembly: ![alt text](./Photos/IMG_20150228_150616.jpg "Step 1")
+              ![alt text](./Photos/IMG_20150228_150632.jpg "Step 2")
+              ![alt text](./Photos/IMG_20150228_150714.jpg "Step 3")
+              ![alt text](./Photos/IMG_20150228_150729.jpg "Step 4")
+              ![alt text](./Photos/IMG_20150228_150804.jpg "Step 5")
+ 
+ 7. Tighten down the wheel assembly on the z gantry plate until it's snug but still can be adjusted with a box end wrench.
+    
+ 8. Repeat this process for all 4 wheel mounting holes but before tightening down one of the top wheels insert the printed Z end stop tab. Pay attention to which wheel you are putting this on to be sure you want your Z end stop mounted on that side of the Z uprights..
+ 
+    Example: ![alt text](./Photos/IMG_20150228_191827.jpg "Z Endstop tab")
+ 
+ 9. Using a bubble level and a box end wrench that fits your eccentric spacer balance the Z gantry plate.  This can take quite a while so be patient and make sure things are level.
+ 
+    Example: ![alt text](./Photos/IMG_20150228_172624.jpg "Example 1")
+             ![alt text](./Photos/IMG_20150228_174103.jpg "Example 2")
+             ![alt text](./Photos/IMG_20150228_190435.jpg "Example 3")
+             ![alt text](./Photos/IMG_20150228_190455.jpg "Example 4")
+ 
+ 10. Repeat steps 5 through 9 for the other gantry plate.
+ 
+ 11. Locate the 2 20x20mm extrusions measuring 519.5mm in length.
+ 
+     Example: ![alt text](./Photos/IMG_20150228_192204.jpg "Extrusions")
+ 
+ 12. Tap each of the end holes on these 2 extrusions using your M5 x .8mm thread tap.
+ 
+ 13. Set one extrusion aside for later.
+ 
+ 14. Locate 1 M5x10mm button head screw and 1 oversized M5 washer (15mm OD)
+ 
+ 15. Line an extrusion up with the single hole at the end of one of the Z gantry plates and thread the screw through the washer, then the gantry plate hole and finally into the end of the 20x20mm extrusion.
+ 
+     Example: ![alt text](./Photos/IMG_20150228_194000.jpg "Extrusion snugged down")
+ 
+ 16. Tighten but only until slightly snug.
+ 
+ 17. Insert 2 T-Slot nuts in the bottom slot of the extrusion
+ 
+     Example: ![alt text](./Photos/IMG_20150228_204235.jpg "T-Slot nuts")
+ 
+ 18. Line these up with the 2 holes in the bottom of the z gantry plate.
+ 
+ 19. Thread 1 M5x8mm button head screw through an M5 washer (not oversized)
+ 
+ 20. Insert this screw into one of the holes on the bottom of the z gantry plate and into the T-Slot nut.  Snug the connection down but not tight.
+ 
+     Example: ![alt text](./Photos/IMG_20150228_204834.jpg "Bottom of extrusion secured")
+ 
+ 21. Repeat steps 19-20 for the other hole in the Z gantry plate on that side.
+ 
+ 22. Repeat steps 14 - 21 for the other side of the gantry plate.
+ 
+ 23. Insert 2 more T-Slot nuts in the bottom of each 20x20mm extrusion for the other gantry plate.
+ 
+ 24. Repeat steps 14-22 for the other gantry plate.
+ 
+ 25. Tighten down all of the screws to complete the Z gantry plate/extrusion assembly.
+ 
+     Example: ![alt text](./Photos/IMG_20150228_213300.jpg "Z-Gantry example 1")
+              ![alt text](./Photos/IMG_20150228_213315.jpg "Z-Gantry example 2")
+ 
+ 26. Locate 1 Delrin leadscrew nut, 2 M5x16mm button head screws, 2 M5 lock nuts and 4 M5 standard washers.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_003325.jpg "Leadscrew hardware")
+ 
+ 27. Place 1 washer on each button head screw and feed each screw through a small hole in the center of one of the gantry plates.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_003900.jpg "Gantry screws in place")
+              ![alt text](./Photos/IMG_20150301_003934.jpg "Gantry screws in place")
+ 
+ 28. Feed the long end of the delrin nut through the gantry plate's big hole between the 2 screws aligned with the screws and seat it firmly.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_004109.jpg "Delrin nut in place")
+ 
+ 29. Using the remaining 2 washers and lock nuts secure the delrin leadscrew nut but do not tighten things down yet.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_004218.jpg "Secured")
+ 
+ 30. Repeat steps 27-29 for the other Z-Gantry plate.
+ 
+ 31. Print the heat spreader template and tape it together taking care to make sure the lines are aligned properly.  Make sure you print it raw and do not fit to page.
+ 
+     Template: [Heat Spreader Template](./Templates/Aluminum_Heat_Spreader_Paper_Template.pdf)
+     
+     Example: ![alt text](./Photos/IMG_20150301_012206.jpg "Heat spreader template")
+     
+ 32. Tape the heat spreader template down to the heat spreader and use the template to place your center punch to mark each hole.
+ 
+ 33. Drill each hole with a 5mm drill bit.
+ 
+ 34. Place the aluminum heat spreader into the mdf insulator board and use the heat spreader as a drill guide to drill the insulator board.
+ 
+ 35. Align the holes in the insulator board and heat spreader with the 519.5mm 20x20mm extrusions of the Z-Gantry.  Center the insulator board between the 2 gantry plates and clamp them together.
+ 
+ 36. Using the insulator and heat spreader as a drill guide, drill the 5mm holes in the 4 corners of the heat spreader.
+ 
+ 37. Remove the clamps and lay the heat spreader on a flat surface.
+ 
+ 38. Using a countersinking bit or a larger drill bit that is wider than the head of the M5 flat head screws drill countersinks for all 6 holes of the heat spreader. Make sure that the countersink is deep enough to keep the head of the flat head M5 screws below the surface of the aluminum heat spreader or you risk cracking the corner of the glass that clips on top.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_022653.jpg "Counter sunk hole")
+              ![alt text](./Photos/IMG_20150301_103824.jpg "All holes done")
+ 
+ 39. Using a larger bit than the original 5mm, I'd say 6 or 7mm, drill out the 4 holes in the 519.5mm 20x20 extrusions to allow the heated bed adjustment to move without binding.
+ 
+ 40. Set the gantry assembly aside for now.
+ 
+ 41. Locate 4 M5x70mm flat head hex screws, 2 M5x30mm flat head hex screws, 6 M5 nylon lock nuts and 6 M5 oversized washers (15mm OD)
+ 
+     Example: ![alt text](./Photos/IMG_20150301_140203.jpg "Hardware")
+ 
+ 42. Lay the MDF insulator board flat with the top of the board facing up.  
+ 
+ 43. Position the 380mm square silicone heater in the center of the insulator board with the adhesive side up.
+ 
+ 44. Remove the adhesive backing.
+ 
+ 45. Thoroughly clean the back side of the aluminum heat spreader to ensure proper adhesion.
+ 
+ 46. Place the aluminum heat spreader on top of the heater pad taking great care to align the holes of the heat spreader with the holes in the insulator board.
+ 
+ 47. Press down firmly all over the heat spreader to ensure you have adhesion of the silicone heater to the aluminum heat spreader.
+ 
+ 48. Select one corner of the aluminum heat spreader and insert 1 M5x70mm flat head screw through the 5mm hole.
+     
+     Example: ![alt text](./Photos/IMG_20150301_141355.jpg "Screw inserted")
+     
+ 49. On the back side of the MDF insulator board slide 1 M5 oversized washer over the end of the screw and seat it against the MDF insulator board.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_141449.jpg "Washer installed")
+ 
+ 50. Thread one M5 nylon lock nut on the end of the screw and tighten down.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_141512.jpg "Lock nut started")
+              ![alt text](./Photos/IMG_20150301_141619.jpg "Lock nut tightened")
+ 
+ 51. Repeat steps 48 - 50 for each of the other 3 corners of the aluminum heat spreader.
+ 
+ 52. Select one of the middle holes in the heat spreader.
+ 
+ 53. Insert 1 M5x30mm flat head screw through the hole.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_142222.jpg "Screw inserted")
+ 
+ 54. On the back side of the MDF insulator board slide 1 M5 oversized washer over the end of the screw and seat it against the MDF insulator board.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_142237.jpg "Washer installed")
+ 
+ 55. Thread one M5 nylon lock nut on the end of the screw and tighten down.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_142252.jpg "Lock nut started")
+              ![alt text](./Photos/IMG_20150301_142352.jpg "Lock nut tightened")
+ 
+ 56. Repeat steps 52 - 53 for the other middle hole of the aluminum heat spreader.
+ 
+ 57. Set this assembly aside for later use.
+ 
+ 58. Locate the printed parts "Z Leadscrew Bearing Holder Base" and "Z Leadscrew Bearing Holder Top", there should be 2 of each.
+ 
+ 59. Insert 1 608ZZ 8x22x7 bearing in each piece.
+ 
+     **TIPS**
+     
+      * If the bearing won't fit because the hole it too tight then use a q-tip and acetone to wet the inside walls of the seating surface.  Repeat this until the walls are soft enough to allow you to press fit the bearings.
+      * If the bearing fits but is loose then use thin kapton tape wrapped around the bearing evenly to shim the bearing into the holder.
+ 
+ 59. Locate 2 36 tooth GT2 pulleys, 4 8mm shim washers and 1 1164mm loop GT2 Belt
