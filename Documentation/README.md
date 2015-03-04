@@ -831,5 +831,123 @@ Main Frame
      
       * If the bearing won't fit because the hole it too tight then use a q-tip and acetone to wet the inside walls of the seating surface.  Repeat this until the walls are soft enough to allow you to press fit the bearings.
       * If the bearing fits but is loose then use thin kapton tape wrapped around the bearing evenly to shim the bearing into the holder.
+    
+    Example: ![alt text](./Photos/IMG_20150301_145609.jpg "Z axis top and bottom printed parts")
  
- 59. Locate 2 36 tooth GT2 pulleys, 4 8mm shim washers and 1 1164mm loop GT2 Belt
+ 59. Locate:
+      * Z-Gantry assembly
+      * 2 36 tooth GT2 pulleys
+      * 4 8mm shim washers
+      * 2 12mm leadscrews
+      * 2 delrin leadscrew nuts
+      * 12 M5 standard washers
+      * 4 M5x25mm socket cap screws
+      * 8 M5x16mm button head screws
+      * 4 M5 nylon lock nuts
+      * 1 1164mm loop GT2 Belt
+     
+     Example: ![alt text](./Photos/IMG_20150301_150437.jpg "M5x16mm screws and washers")
+              ![alt text](./Photos/IMG_20150301_151022.jpg "36 tooth pulleys")
+              ![alt text](./Photos/IMG_20150301_151049.jpg "8mm washers")
+              ![alt text](./Photos/IMG_20150301_151340.jpg "1164mm closed loop belt")
+     
+ 60.  Starting at one side of the inside cross piece loosen one of the M5x10mm screws from the outer slots on the top of the cross piece. Set the screws aside as they aren't used here and were just being used to hold the T-Slot nuts in place.
+ 
+ 61. Place a Z Axis bearing holder flush in the corner of the cross piece and the V-Slot extrusion.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_145948.jpg "bearing piece placed correctly")
+  
+ 62. Place 1 M5 standard washer on 1 M5x16mm button head screw.
+ 
+ 63. Using a hex wrench or similar tool, slide a T-Slot nut under the bearing holder and line up the threads with the hole in the bearing holder.
+ 
+ 64. Insert the M5x16mm screw into the hole and tighten.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_150717.jpg "corner bearing holder mounteed")
+ 
+ 65. Repeat steps 62 for the other hole in the bearing holder.
+ 
+ 66. Repeat steps 60 - 65 for the other side of the cross piece.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_150928.jpg "bottom bearing holders mounted")
+ 
+ 67. Place 1 M5 standard washer on 1 M5x16mm button head screw.
+ 
+ 68. Insert a delrin leadscrew nut through the large hole on one side of the Z-Gantry assembly with the cylinder portion of the of the leadscrew nut passed through the bottom of the large hole in the gantry plate.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_152459.jpg "Leadscrew nut in place")
+ 
+ 69. Insert the M5x16mm screw with washer through one of the top holes to secure the delrin leadscrew nut.
+ 
+ 70. Place a washer on the other side of the gantry plate on the screw passed through and use 1 M5 nylon lock nut to secure the screw but do not tighten just yet.
+ 
+ 71. Repeat steps 67 - 70 for the other screw hole of the leadscrew nut.
+ 
+ 72. Repeat steps 67 - 71 for the other side of the gantry assembly.
+ 
+ 73. Thread one 12mm leadscrew through one of the delrin leadscrew nuts with the longer tapered side facing the bottom of the Z-Gantry plate.  Thread this about halfway.
+ 
+ 74. Repeat step 73 for the other side of the gantry assembly.
+ 
+ 75. Slide one 36 tooth GT2 pulley on the longer tapered side of one of the lead screws with the collar facing the Z-Gantry assembly and tighten snugly.
+ 
+ 76. Repeat step 75 for the other leadscrew.
+ 
+ 77. Place 1 8mm shim washer on each of the bearings secured to the lower bearing holders mounted on the center cross piece of the main chassis.
+ 
+ 78. Holding the Z-Gantry assembly with the leadscrews inserted and the pulleys facing down slide the assembly onto the V-Slot aligning the wheels.  Feed the leadscrew through the 1164mm GT2 closed loop belt and then feed the remaining tapered end of each leadscrew through the 8mm shim washer and into the bearing underneath.
+ 
+ 79. Place 1 M5 standard washer on 1 M5x25mm socket head screw, repeat this for one more M5x25mm screw.
+ 
+ 80. Feed these screws through each of the holes of one of the Z axis top bearing holders.
+ 
+ 81. Secure 1 T-Slot nut on the end of each of the M5x25mm screws.
+ 
+ 82. Place 1 8mm shim washer on the top of the lead screw feeding the short tapered end of the lead screw through the hole of the washer.
+ 
+ 83. Feed the remaining portion of the taper through the bearing hole of the Z-Axis top assembly with the flat side of the bearing holder facing the V-Slot. As you are doing this you will need to take special care to feed the T-Slot nuts threaded on the M5x25mm screws into the left and right most slots of the V-Slot extrusion.
+ 
+ 84. Tighten the 2 M5x25mm socket head screws to firmly affix the top bearing holder to the V-Slot.
+ 
+ 85. Repeat steps 79 - 84 for the other side of the Z-Gantry/leadscrew.
+ 
+     Example: ![alt text](./Photos/IMG_20150301_152214.jpg "Z Gantry installed")
+              ![alt text](./Photos/IMG_20150301_152020.jpg "Z Gantry installed")
+ 
+ 86. Tighten the screws on each side of the leadscrew nuts.
+ 
+     ![alt text](./Photos/IMG_20150301_152459.jpg "Tightening the leadscrew nuts")
+ 
+ 87.  Align the belt with the 2 36 tooth pulleys.
+ 
+ 88. Use a bubble level to ensure that the Z Gantry is level.  This is essential before testing the z axis for binding. If the Z gantry is off level manually spin one of the lead screws to bring it into level.  If the leadscrew won't turn you have binding.  See the next step for tips.
+ 
+ 89. Level the Z axis. The Z axis must be level in all directions in order to spin freely.  The following are tips for leveling your Z axis.
+    
+      * If you have binding on either leadscrew, loosen the 2 screws holding the leadscrew nut to the Z gantry plate.
+      * You can use a magnetic bubble level attached to the leadscrews to square them up.
+      * The if you have lateral binding of the leadscrews to the left and right side you can loosen the bearing blocks at the bottoms and move them closer or further away from the V-Slot.
+      * In some cases (when the Z Gantry holes for the delrin nut aren't true) you will need to sand material off of the seating surface of either the top or bottom bearing holders.
+ 
+ 90. Locate 1 printed motor mount, 1 nema 17 stepper motor, 4 M3x8mm button head screws and 4 M3 standard size washers.
+     
+     Example: ![alt text](./Photos/IMG_20150303_145251.jpg "Motor mount")
+              ![alt text](./Photos/IMG_20150303_145302.jpg "Nema 17 stepper motor")
+              ![alt text](./Photos/IMG_20150303_153927.jpg "Screws and washers")
+ 
+ 91. Place the motor mount on top of the nema 17 motor as shown below.  Make sure that you pay close attention to the orientation of the wiring harness or plug on one side of the stepper motor.
+ 
+     Example: ![alt text](./Photos/IMG_20150303_145312.jpg "Motor mount placed properly")
+    
+ 92. Place 1 M3 standard washer on 1 M3x8mm button head screw.
+    
+     Example: ![alt text](./Photos/IMG_20150303_153955.jpg "Screw and washer")
+ 
+ 93. Insert the screw from step 91 into one of the holes of the motor mount and secure it to the stepper motor underneath.
+ 
+     Example: ![alt text](./Photos/IMG_20150303_154031.jpg "Attaching the motor mount")
+ 
+ 94. Repeat steps 92 - 93 for the remaining 3 holes of the motor mount.
+ 
+     Example: ![alt text](./Photos/IMG_20150303_154225.jpg "Motor mount attached")
+ 
