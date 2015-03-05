@@ -853,7 +853,7 @@ Main Frame
      
  60.  Starting at one side of the inside cross piece loosen one of the M5x10mm screws from the outer slots on the top of the cross piece. Set the screws aside as they aren't used here and were just being used to hold the T-Slot nuts in place.
  
- 61. Place a Z Axis bearing holder flush in the corner of the cross piece and the V-Slot extrusion.
+ 61. Place a Z Axis bottom bearing holder about 1 to 2mm from the corner of the cross piece and the V-Slot extrusion.
  
      Example: ![alt text](./Photos/IMG_20150301_145948.jpg "bearing piece placed correctly")
   
@@ -951,3 +951,236 @@ Main Frame
  
      Example: ![alt text](./Photos/IMG_20150303_154225.jpg "Motor mount attached")
  
+ 95. Locate these screws and T-slot nuts you inserted into the front slots of the center support.
+ 
+     Example: ![alt text](./Photos/IMG_20150303_210407.jpg "2 screws in the side and 2 in the top front slot")
+ 
+ 96. Remove the M5x10mm button head screws that were used to hold the T-Slot nuts in place.
+ 
+     Example: ![alt text](./Photos/IMG_20150303_210436.jpg "Temporary screws removed")
+ 
+ 97. Place the motor mount on the center support as shown in the picture below.
+ 
+     Example: ![alt text](./Photos/IMG_20150303_210654.jpg "Motor mount oriented correctly")
+ 
+ 98. Using a hex wrench slide a T-Slot nut under one of the top holes in the motor mount.
+ 
+     Example: ![alt text](./Photos/IMG_20150303_210709.jpg "T-Slot nut placed")
+     
+ 99. Locate 1 M5 standard washer and reuse one of the M5x10mm button head screws previously removed from the T-Slot nuts.  Install the washer on the screw.
+ 
+     Example: ![alt text](./Photos/IMG_20150303_210928.jpg "Washer and screw")
+     
+ 100. Thread the screw through the motor mount and into the T-Slot nut underneath.  Tighten the screw.
+ 
+ 101. Repeat steps 98 - 100 for the other top hole of the motor mount.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_211317.jpg "Motor mount secured")
+ 
+ 102. Using a hex wrench, slide a T-slot nut behind one of the holes on the motor mount that sits flush with the front of the center support.
+ 
+ 103. Locate 1 M5 standard washer and 1 M5x16mm button head screw. Install the washer on the screw.
+ 
+ 104. Thread the screw through the hole that you positioned the T-Slot behind and tighten it.
+ 
+ 105. Repeat steps 102 - 104 for the other hole in the motor mount.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_211317.jpg "Motor mount secured")
+      
+ 106. Locate the 2 printed parts Z Idler slide support, 4 M5 standard washers, 2 idler pulley kits, 1 20 tooth GT2 pulley, 2 M5x10mm button head screws and 2 M5x25mm socket cap screws
+ 
+      Example: ![alt text](./Photos/IMG_20150303_211441.jpg "Z Idler slide support")
+               ![alt text](./Photos/IMG_20150303_211635.jpg "Idler pulley kits")
+               ![alt text](./Photos/IMG_20150303_211819.jpg "20 tooth GT2 pulley")
+               ![alt text](./Photos/IMG_20150303_211825.jpg "Screws")
+               
+ 107. Assemble the idler pulleys by press fitting one bearing into one side of the pulley.  Flip the pulley over and insert the nylon space in the center, aligning it with the hole in the bearing below it.  Then press fit the other bearing into the open side of the pulley.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212307.jpg "Idler pulley")
+      
+ 108. Remove the M5x10mm button head screws in the remaining 4 T-Slot nuts installed in the center support and slide the T-Slot nuts out of the way, 2 to each side of center.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212351.jpg "Remove these screws")
+      
+ 109. Choose one side of the center support and split 2 of the 2 slot nuts and place the Z idler slide support in between them.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212437.jpg "Z idler slide support placed")
+      
+ 110. Using a hex wrench, slide the t-slot nut closest to the recessed screw hole under the hole so that the threads align with the screw hole in the printed part.
+ 
+ 111. Insert 1 M5x10mm screw in this hole and tighten.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212559.jpg "Screw secured")
+      
+ 112. Using a hex wrench, slide the other T-Slot nut under the other hole in the Z idler slide support.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212613.jpg "T-Slot nut placed")
+      
+ 113. Install 1 M5 standard washer on 1 M5x25mm socket cap screw.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212656.jpg "Washer installed")
+      
+ 114. Insert the screw through the center hole of the idler pulley.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212713.jpg "idler pulley installed")
+      
+ 115. Install 1 M5 standard washer on the screw, on top of the idler pulley.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212731.jpg "Washer installed")
+      
+ 116. Thread the assembly through the non-recessed screw hole of the Z idler slide support and snug.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212807.jpg "Install idler")
+      
+ 117. The idler pulley should be able to spin freely.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_212908.jpg "Z idler slide support installed")
+      
+ 118. Repeat steps 109 - 117 for the other side of the center support.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_213148.jpg "Z idler slide supports finished")
+      
+ 119. Install the 20 tooth GT2 pulley on the center motor shaft but do not tighten yet.
+ 
+ 120. Feed the flat side of the belt around the idler pulley as pictured.  Then wrap the tooth side around the GT2 pulley on the motor. Finally feed the flat side around the other idler pulley.  You will likely need to loosen the Z idler slide support to make this work but be sure to find the ideal tension and tighten them down again.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_213300.jpg "First idler pulley")
+               ![alt text](./Photos/IMG_20150303_213307.jpg "GT2 pulley")
+               ![alt text](./Photos/IMG_20150303_213317.jpg "Second idler pulley")
+               ![alt text](./Photos/IMG_20150303_213428.jpg "Adjusting tension")
+               
+ 121. Work the belt back and forth to help work the GT2 pulley onto the shaft of the stepper motor at the ideal height and then secure the GT2 pulley using it's set screws.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_220850.jpg "Pulley adjusted")
+ 
+ 122. Ensure the belt is flat against the pulley and not catching on the edges as this can damage the belt.
+ 
+ 123. Install the solid state relay on the bottom rear inside extrusion using 2 of the T-Slot nuts you inserted previously.  Use 2 M5x12mm socket cap screws to secure this in place.  Depending on your SSR you may need to tap the holes to allow the M5 screws to feed through.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_221256.jpg "SSR and screws")
+               ![alt text](./Photos/IMG_20150303_223007.jpg "SSR installed")
+      
+      * When you install the top side extrusions take care to align the 4 T-Slot nuts that are threaded on the M5x8mm button head screws with the 4 holes drilled in each extrusion and the slots in the V-slot verticals.  
+      * Before tightening these screws make sure you measure 215mm from the front facing end of the extrusion to the edge of the V-Slot verticals to ensure proper alignment of the Z axis.
+ 
+ 124. Using the extrusion slot cover material, a sharp knife and a measuring instrument line all the slot channels that will be holding your plexiglass/acrylic covers if you are using them here.  Install the top extrusions into their respective sides to hole the plexiglass in.  If not using covers still install the top extrusions.
+ 
+      Example: ![alt text](./Photos/IMG_20150303_223325.jpg "Channel covers")
+               ![alt text](./Photos/IMG_20150303_224431.jpg "Plexiglass installed")
+            
+ 125. Thats it for the Z axis and bottom chassis!
+
+
+## X/Y Axis
+
+ 1. Locate 2 Corner Bearing Bracket A and 2 Corner Bearing bracket B printed parts.
+ 
+    Example: ![alt text](./Photos/IMG_20150304_080335.jpg "Corner Bearing Bracket A")
+             ![alt text](./Photos/IMG_20150304_080343.jpg "Corner Bearing Bracket B")
+             
+ 2. Press fit 1 10mm (ID) x 22mm (OD) bearing into each of the bearing holes of the 4 printed corner bearing brackets.
+    
+    Example: ![alt text](./Photos/IMG_20150304_080415.jpg "Corner bearing brackets with bearings inserted")
+    
+    * If the bearing holes are too tight, use acetone and a q-tip to wet the bearing hole walls until the abs is soft. Then press fit the bearing in.
+    * If the bearing holes are too loose, wrap the outside wall of the bearing with a thin layer of kapton tape to shim the bearing.
+    
+ 3. Starting with the front left top corner of the inside of the chassis place the corner bearing bracket that matches up with the holes drilled through the top extrusions.  This should be corner bearing bracket B.
+    
+    Example: ![alt text](./Photos/IMG_20150304_080501.jpg "Top left corner bearing bracket placed")
+    
+ 4. On each side of the bracket you should remove enough of the prepopulated M5x10mm button head screws from the t-slot nuts that were installed earlier to be able to secure each of the screw holes of the corner bearing bracket plate.
+ 
+ 5. Using a hex wrench slide 1 t-slot nut behind one of the inner most screw holes of the corner bearing bracket and secure it with 1 M5x10mm screw.  Make sure that the corner bearing bracket is flush with the corner of the extrusions.  This is necessary for proper X/Y alignment.
+    
+    Example: ![alt text](./Photos/IMG_20150304_080805.jpg "Inner most screw hole secured")
+    
+ 6. Repeat this process for all of the holes of the corner bearing bracket.
+ 
+    Example: ![alt text](./Photos/IMG_20150304_081715.jpg "Bearing bracket secured")
+ 
+ 7. Moving counter clockwise, repeat this process for the remaining 3 corners, take care to alternate corner bearing bracket versions each time.  e.g. Front right corner uses corner bearing bracket A.  Make sure the drilled holes in the extrusions line up with the corner bearing bracket's bearing holes.
+ 
+    Example: ![alt text](./Photos/IMG_20150304_094824.jpg "Corner bearing brackets installed")
+ 
+ 8. Locate 2 610mm x 10mm hardened precsion rods, 2 printed rod end knobs, 2 M3 standard nuts and 2 M3x8mm button head screws.
+ 
+ 9. Carefully insert 1 M3 nut into the hexagonal shaped recess on the inside of 1 printed rod end knob.
+ 
+    Example: ![alt text](./Photos/IMG_20150304_085153.jpg "nut installed")
+ 
+ 10. Slide the rod end knob onto one end of 1 610mm precision rod.
+ 
+     Example: ![alt text](./Photos/IMG_20150304_085559.jpg "Rod end knob on precision rod")
+ 
+ 11. Thread 1 M3x8mm button head screw through the screw hole of the rod end knob and tighten down enough to securely hold the rod end knob on the precision rod.
+    
+     Example: ![alt text](./Photos/IMG_20150304_085940.jpg "Rod end knob installed")
+    
+ 12. Repeat steps 9 - 11 for the other precision rod.
+ 
+ 13. Locate 1 XY Axis Belt Tensioner A, 1 XY Axis Belt Tensioner Block A, 2 M3x50mm socket head screw, 4 M3 nylon lock nuts, 1 M5 standard hex nut, 1 M5x16mm button head screw, 2 sintered bronze bushings and 2 M3x25mm socket cap screws.
+ 
+ 14. Press fit the bronze bushings into the large holes of the XY Axis Belt Tensioner printed part.
+ 
+      * If the fit is too tight, use acetone and a q-tip to soften the inner wall of the printed part's bushing hole and then press the bushing in.
+      * If the fit is too loose, use kapton tape to shim the bushing and then press the bushing in.
+  
+  5. Thread 1 M3x50mm socket cap screw through one of the 3mm holes in the bottom of the XY Axis Belt Tensioner.
+  
+  6. Repeat the process for the other hole.
+  
+  7. Fit the XY Belt Tensioner Block's 2 holes on the end of the 2 M3x50mm screws taking care to align the slot for the GT2 belt.
+  
+  8. Screw the screws through the tensioner block but not all the way.
+  
+  9. Screw on 1 nylon locknut on the end of each of the M3x50mm screws.
+  
+  10. Thread 1 M3x25mm through one of the belt slots.
+  
+  11. Screw on one nylon lock nut on the end of the screw but do not tighten.
+  
+  12. Repeat steps 10 - 11 for the other belt retension screw hole.
+  
+  13. Insert the M5 standard hex nut into the slot on top of the XY Axis Belt Tensioner.
+  
+  14. Thread 1 M5x16mm button head screw through the recessed screw hole and thread the screw into the nut in the opposing side of the tensioner. DO NOT TIGHTEN! You will crack the part!!!  Just let the threads grab.
+  
+  15. The finished assembly will look like this:
+  
+  16. Repeat these steps for the other XY Axis Belt Tensioner A piece as well as the other 2 XY Axis belt tensioner pieces.  
+  
+  17. Set them aside for now.
+  
+  18. Locate the dual hotend carriage printed part.
+  
+  19. Insert M3 standard nuts into each of the slots of the carriage making sure to press them in until they are fully seated.
+  
+  20. Using the q-tip or kapton tape method described in step 14 press fit 1 10mm sintered bronze bushing into each busching hole of the carriage taking care to ensure that they're fully seated level or you will have binding issues.  Test the alignment by inserting a 512mm precision hardened rod into one of the axis and move the carriage up and down the shaft.  It should move as if there were a cushion of air between the bushing and the rod.
+  
+      * If you have minor binding you can insert one of the 512mm hardened precision rods into an electric drill and insert the precision rod into one of the carriage axis.  Then start spinning the rod slowly with the drill while moving the carriage up and down the shaft to force the self aligning bushings into alignment.
+      * If you have major binding you can set the rod end on a hard surface and gently knock the bushing in by knocking the carriage into the hard surface.  Take care not to knock too hard or you could crack the carriage.
+  
+  21. Insert 1 512mm precision hardened rod through each axis of the carriage and set on a flat surface with the flat side of the carriage facing up and the end of the carriage that will house the hotends facing you.  This is the orientation of the carriage in the chassis when you are looking at the front.
+  
+  22. Slide the large precsion rod hole of 1 XY belt tensioner A onto the right end of the rod assembly with the bushings on the top side of the tensioner.
+  
+  23. Slide the large precision rod hole of 1 XY belt tensioner B onto the left end of the rod assembly with the bushings on the top side of the tensioner.
+  
+  24. Slide the large precision rod hole of 1 XY belt tensioner A onto the front end of the rod assembly with the bushings on the bottom side of the tensioner.
+  
+  24. Slide the large precision rod hole of 1 XY belt tensioner B onto the back end of the rod assembly with the bushings on the bottom side of the tensioner.
+  
+  25. Gently tighten the M5x16mm screw.  Take care not to over tighten because you will crack the part.  It only needs to be snug.
+  
+      * If you over tighten any of the screws and the part cracks you can remove the part and slightly bend it to expose the crack and then apply a small drop of acetone into the crack then use a clamp to hold the piece together until the acetone sets and the acetone glue is hardened.
+      
+  26. This will be the orientation you will install the XY axis in the chassis.
+  
+  27. Locate 2 10mm shim washers, 1 610mm precision hardened rod and 2 32 tooth GT2 pulleys
+  
+  28. starting with the front left rod, using the precision hardened rod you installed a rod end knob on, slide the rod into the hole drilled through the front extrusion.
+  
+  29. As the rod enters the inside of the chassis install 1 10mm shim washer and then 1 32 tooth pulley with the teeth closest to the inside face of the extrusion.
+  
+  30. Keeping the orientation that was previously established for the carriage feed the rod through the sintered bronze bushings of the XY tensioner B taking care to ensure that the bushings are on the top side of the tensioner.
