@@ -1345,3 +1345,104 @@ Main Frame
  27. Using the 2 T-Slot nuts and 2 M5x16mm button head screws installed previously in the right side of the front door, install the handle.
  
      Example: ![alt text](./Photos/IMG_20150308_214035.jpg "Handle Installed")
+
+
+## Top cover assembly
+
+ 1. Locate 4 330mm 20x20mm extrusions, 7 569.5mm 20x20mm extrusions, 1 100mm 20x20mm extrusion, 1 55mm 20x20mm extrusion and 1 515mm 20x20mm extrusion.
+ 
+ 2. Carefully tap each end of all of the extrusions with an M5 x .8mm tap.
+ 
+ 3. Thread an M5x10mm button head screw into the end of each of the 7 569.5mm 20x20mm extrusions and 1 515mm 20x20mm extrusion leaving only 2mm of thread showing.
+ 
+ 4. Thread an M5x10mm button head screw into one end of the 100mm 20x20mm extrusion and 55mm 20x20mm extrusion leaving only 2mm of thread showing.
+ 
+ 5. Locate the 20x20mm extrusion drill guide.
+ 
+ 6. Using 3 M5x8mm button head screws and 2 T-slot nuts install the drill guide on the end of 1 330mm 20x20mm extrusion.
+ 
+ 7. Carefully drill the first hole near the end of the extrusion on both sides of the extrusion using a 5mm drill bit.
+ 
+ 8. Repeat this process for each end of the 4 330mm 20x20mm extrusions.
+ 
+ 9. Install the drill guide on the end of the 100mm 20x20mm extrusion that doesn't have the M5x10mm screw threaded into it.
+ 
+ 10. Carefully drill the first hole near the end of the extrusion on only one side.
+ 
+ 11. Repeat steps 9 - 10 for the end of the 55mm 20x20mm extrusion.
+ 
+ 12. Locate 1 330mm 20x20mm extrusion and measure 110mm from one end, on once side, and mark with a center punch or other device to leave a clear mark that will help with drilling.
+ 
+ 13. Carefully drill straight through the extrusion. This is only done on one extrusion and makes this extrusion the front right corner of the lid.
+ 
+ 14. Locate 1 515mm 20x20mm extrusion, 1 100mm extrusion and 1 55mm extrusion.
+ 
+ 15. Place the 515mm 20x20mm extrusion on a flat surface.
+ 
+ 16. Slide the button head screw on the left side of the 515mm extrusion into the slot of the 100mm extrusion with the hole drilled through until the extrusions are flush.
+ 
+ 17. Pass a hex wrench through the hole of the 100mm extrusion and tighten the M5x10mm screw down making sure to keep things flush and flat.
+ 
+ 18. Locate the 55mm extrusion.
+ 
+ 19. Slide the end of the 55mm extrusion with the hole drilled through it over the M5x10mm button head screw at the end of the 100mm extrusion lining up the hole in the 55mm extrusion with the button head screw.
+ 
+ 20. Pass a hex wrench through the hole of the 55mm extrusion and tighten the button head screw down while keeping things flush and flat.
+ 
+ 21. Locate the 330mm extrusion that was drilled not only near the ends but also drilled 110mm from one end through the slot.
+ 
+ 22. Slide the 330mm extrusion over the M5x10mm button head screw util the end of the extrusion is lined up with the bottom of the 515mm extrusion and the hole drilled through the 330mm extrusion is lined up with the button head screw of the 55mm extrusion.
+ 
+ 23. Pass a hex wrench through the middle hole and tighten the M5 screw keeping things flush and flat.
+ 
+ 24. Locate 3 569.5mm extrusions and place them in the shape of a U with the opening of the U facing the right.
+ 
+ 25. If you want to install a lift handle on the front face of the lid, on the front face of the 20x20mm extrusion insert 2 T-Slot nuts and tighten 1 M5x16mm button head screw into each to keep them from sliding.
+ 
+ 26. If you are installing the sliding hinge on the lid, on the front face of the 20x20mm extrusion insert 1 T-Slot nut and thread 1 M5x16mm button head screw into it and tighten enough to keep things from sliding.
+ 
+ 27. Insert 2 T-Slot nuts and hand tighten 1 M8x8mm flat top screw in the left facing slot of the left extrusion.  This is for the hinges.
+ 
+ 27. Place the assembly with the 55, 100 and 515mm extrusions tightend to it on the opening of the U and slide the button head screw of the front right end through the 330mm extrusion.
+ 
+ 28. Pass a hex wrench through the bottom hole of the 330mm extrusion and tighten, take care to make sure things are flush and flat.
+ 
+ 29. Locate 3 330mm 20x20mm extrusions.
+ 
+ 30. Slide one end of a 330mm extrusion over the button head screws at each of the 3 other corners of the lid assembly.
+ 
+ 31. Using a hex wrench passed through the holes drilled through these extrusions tighten all of the screws down keeping things flush and flat.
+ 
+ 32. Locate some T-Slot covers, a sharp knife and measuring device.
+ 
+ 33. Carefully measure and insert the T-Slot covers into the inner channels of the whole assembly to pad the channels for housing the covers.
+ 
+ 34. Install the 4 clear side panels in the lid.
+ 
+ 35. Install T-Slot covers in the 4 remaining 569.5mm extrusions on 2 of the faces next to each other.
+ 
+ 36. Install 3 of the 569.5mm extrusions on the lid top on the rear, left and right sides.
+ 
+ 37. Passing a hex wrench through the drilled holes in the vertcial 330mm extrusions tighten the 3 installed extrusions.
+ 
+ 38. Loosen the bottom front screws to allow the front two verticals to move outward.  This is just to install the top clear panel.
+ 
+ 39. Slide the top clear panel and ensure it is fully seated in the rear, left and right channels.
+ 
+ 40. Install the remaining 569.5mm extrusion on the top front of the cover and tighten all M5 screws in all of the top and bottom corners.
+ 
+ 41. Locate 2 aluminum extrusion hinges.
+ 
+ 42. Using the preinstalled T-Slot Nuts and M5x8mm flat top screws install the hinges in the front and rear corners of the left side of the lid and chassis.
+ 
+ 43. Locate a plastic handle or a printed handle.
+ 
+ 44. Using the preinstalled T-Slot nuts and M5x16mm button head screws install the handle on the lid.
+ 
+ 45. Locate the printed sliding hinge.
+ 
+ 46. Using the preinstalled T-Slot nuts and M5x16mm buttn head screws install the hinge but before tightening down the sliding piece of the hinge open the lid until it is opened to the point that you like, then tighten down the last screw.
+ 
+ Thats it! the Mechanincal 
+ 
+ 
