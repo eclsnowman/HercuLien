@@ -1125,62 +1125,223 @@ Main Frame
  
       * If the fit is too tight, use acetone and a q-tip to soften the inner wall of the printed part's bushing hole and then press the bushing in.
       * If the fit is too loose, use kapton tape to shim the bushing and then press the bushing in.
-  
-  5. Thread 1 M3x50mm socket cap screw through one of the 3mm holes in the bottom of the XY Axis Belt Tensioner.
-  
-  6. Repeat the process for the other hole.
-  
-  7. Fit the XY Belt Tensioner Block's 2 holes on the end of the 2 M3x50mm screws taking care to align the slot for the GT2 belt.
-  
-  8. Screw the screws through the tensioner block but not all the way.
-  
-  9. Screw on 1 nylon locknut on the end of each of the M3x50mm screws.
-  
-  10. Thread 1 M3x25mm through one of the belt slots.
-  
-  11. Screw on one nylon lock nut on the end of the screw but do not tighten.
-  
-  12. Repeat steps 10 - 11 for the other belt retension screw hole.
-  
-  13. Insert the M5 standard hex nut into the slot on top of the XY Axis Belt Tensioner.
-  
-  14. Thread 1 M5x16mm button head screw through the recessed screw hole and thread the screw into the nut in the opposing side of the tensioner. DO NOT TIGHTEN! You will crack the part!!!  Just let the threads grab.
-  
-  15. The finished assembly will look like this:
-  
-  16. Repeat these steps for the other XY Axis Belt Tensioner A piece as well as the other 2 XY Axis belt tensioner pieces.  
-  
-  17. Set them aside for now.
-  
-  18. Locate the dual hotend carriage printed part.
-  
-  19. Insert M3 standard nuts into each of the slots of the carriage making sure to press them in until they are fully seated.
-  
-  20. Using the q-tip or kapton tape method described in step 14 press fit 1 10mm sintered bronze bushing into each busching hole of the carriage taking care to ensure that they're fully seated level or you will have binding issues.  Test the alignment by inserting a 512mm precision hardened rod into one of the axis and move the carriage up and down the shaft.  It should move as if there were a cushion of air between the bushing and the rod.
-  
-      * If you have minor binding you can insert one of the 512mm hardened precision rods into an electric drill and insert the precision rod into one of the carriage axis.  Then start spinning the rod slowly with the drill while moving the carriage up and down the shaft to force the self aligning bushings into alignment.
-      * If you have major binding you can set the rod end on a hard surface and gently knock the bushing in by knocking the carriage into the hard surface.  Take care not to knock too hard or you could crack the carriage.
-  
-  21. Insert 1 512mm precision hardened rod through each axis of the carriage and set on a flat surface with the flat side of the carriage facing up and the end of the carriage that will house the hotends facing you.  This is the orientation of the carriage in the chassis when you are looking at the front.
-  
-  22. Slide the large precsion rod hole of 1 XY belt tensioner A onto the right end of the rod assembly with the bushings on the top side of the tensioner.
-  
-  23. Slide the large precision rod hole of 1 XY belt tensioner B onto the left end of the rod assembly with the bushings on the top side of the tensioner.
-  
-  24. Slide the large precision rod hole of 1 XY belt tensioner A onto the front end of the rod assembly with the bushings on the bottom side of the tensioner.
-  
-  24. Slide the large precision rod hole of 1 XY belt tensioner B onto the back end of the rod assembly with the bushings on the bottom side of the tensioner.
-  
-  25. Gently tighten the M5x16mm screw.  Take care not to over tighten because you will crack the part.  It only needs to be snug.
-  
-      * If you over tighten any of the screws and the part cracks you can remove the part and slightly bend it to expose the crack and then apply a small drop of acetone into the crack then use a clamp to hold the piece together until the acetone sets and the acetone glue is hardened.
       
-  26. This will be the orientation you will install the XY axis in the chassis.
+      Example: ![alt text](./Photos/IMG_20150304_214125.jpg "Bushing press fit into belt tensioner")
+      
+ 15. Thread 1 M3x50mm socket cap screw through one of the 3mm holes in the bottom of the XY Axis Belt Tensioner.
+     
+     Example: ![alt text](./Photos/IMG_20150304_214225.jpg "M3x50mm socket cap screw")
+              ![alt text](./Photos/IMG_20150305_203920.jpg "Completed XY Tensioner")
+              
+ 16. Repeat the process for the other hole.
   
-  27. Locate 2 10mm shim washers, 1 610mm precision hardened rod and 2 32 tooth GT2 pulleys
+ 17. Fit the XY Belt Tensioner Block's 2 holes on the end of the 2 M3x50mm screws taking care to align the slot for the GT2 belt.
+     
+     Example: ![alt text](./Photos/IMG_20150304_214918.jpg "Belt Slot aligned")
+              ![alt text](./Photos/IMG_20150305_204236.jpg "Belt slot aligned")
+     
+ 18. Screw the screws through the tensioner block but not all the way.
   
-  28. starting with the front left rod, using the precision hardened rod you installed a rod end knob on, slide the rod into the hole drilled through the front extrusion.
+ 19. Screw on 1 nylon locknut on the end of each of the M3x50mm screws.
   
-  29. As the rod enters the inside of the chassis install 1 10mm shim washer and then 1 32 tooth pulley with the teeth closest to the inside face of the extrusion.
+ 20. Thread 1 M3x25mm through one of the belt slots.
   
-  30. Keeping the orientation that was previously established for the carriage feed the rod through the sintered bronze bushings of the XY tensioner B taking care to ensure that the bushings are on the top side of the tensioner.
+ 21. Screw on one nylon lock nut on the end of the screw but do not tighten.
+  
+ 22. Repeat steps 10 - 11 for the other belt retension screw hole.
+  
+ 23. Insert the M5 standard hex nut into the slot on top of the XY Axis Belt Tensioner.
+     
+     Example: ![alt text](./Photos/IMG_20150304_215020.jpg "Completed XY Tensioner")
+     
+ 24. Thread 1 M5x16mm button head screw through the recessed screw hole and thread the screw into the nut in the opposing side of the tensioner. DO NOT TIGHTEN! You will crack the part!!!  Just let the threads grab.
+  
+ 25. The finished assembly will look like this:
+ 
+     Example: ![alt text](./Photos/IMG_20150304_215020.jpg "Completed XY Tensioner")
+  
+ 26. Repeat these steps for the other XY Axis Belt Tensioner A piece as well as the other 2 XY Axis belt tensioner pieces.  
+  
+ 27. Set them aside for now.
+  
+ 28. Locate the dual hotend carriage printed part.
+ 
+     Example: ![alt text](./Photos/IMG_20150304_212504.jpg "Hot end carriage")
+  
+ 29. Insert M3 standard nuts into each of the slots of the carriage making sure to press them in until they are fully seated.
+  
+ 30. Using the q-tip or kapton tape method described in step 14 press fit 1 10mm sintered bronze bushing into each busching hole of the carriage taking care to ensure that they're fully seated level or you will have binding issues.  Test the alignment by inserting a 512mm precision hardened rod into one of the axis and move the carriage up and down the shaft.  It should move as if there were a cushion of air between the bushing and the rod.
+  
+     * If you have minor binding you can insert one of the 512mm hardened precision rods into an electric drill and insert the precision rod into one of the carriage axis.  Then start spinning the rod slowly with the drill while moving the carriage up and down the shaft to force the self aligning bushings into alignment.
+     * If you have major binding you can set the rod end on a hard surface and gently knock the bushing in by knocking the carriage into the hard surface.  Take care not to knock too hard or you could crack the carriage.
+  
+ 31. Insert 1 512mm precision hardened rod through each axis of the carriage and set on a flat surface with the flat side of the carriage facing up and the end of the carriage that will house the hotends facing you.  This is the orientation of the carriage in the chassis when you are looking at the front.
+     
+     Example: ![alt text](./Photos/IMG_20150304_212527.jpg "Carriage placed flat")
+              ![alt text](./Photos/IMG_20150304_212547.jpg "Carriage oriented correctly")
+ 
+ 32. Slide the large precsion rod hole of 1 XY belt tensioner A onto the right end of the rod assembly with the bushings on the top side of the tensioner.
+    
+     Example: ![alt text](./Photos/IMG_20150304_212616.jpg "Tensioner A placed correctly")
+              ![alt text](./Photos/IMG_20150304_225708.jpg "Tensioner A placed correctly")
+    
+ 33. Slide the large precision rod hole of 1 XY belt tensioner B onto the left end of the rod assembly with the bushings on the top side of the tensioner.
+     
+     Example: ![alt text](./Photos/IMG_20150304_225715.jpg "Tensioner B placed correctly")
+     
+ 34. Slide the large precision rod hole of 1 XY belt tensioner A onto the front end of the rod assembly with the bushings on the bottom side of the tensioner.
+    
+     Example: ![alt text](./Photos/IMG_20150304_225720.jpg "Tensioner A placed correctly")
+    
+ 34. Slide the large precision rod hole of 1 XY belt tensioner B onto the back end of the rod assembly with the bushings on the bottom side of the tensioner.
+  
+     Example: ![alt text](./Photos/IMG_20150304_225725.jpg "Tensioner B placed correctly")
+  
+ 35. Gently tighten the M5x16mm screw.  Take care not to over tighten because you will crack the part.  It only needs to be snug.
+  
+     * If you over tighten any of the screws and the part cracks you can remove the part and slightly bend it to expose the crack and then apply a small drop of acetone into the crack then use a clamp to hold the piece together until the acetone sets and the acetone glue is hardened.
+      
+ 36. This will be the orientation you will install the XY axis in the chassis.
+  
+     Example: ![alt text](./Photos/IMG_20150304_225731.jpg "XY assembly oriented correctly")
+  
+ 37. Locate 2 10mm shim washers, 1 610mm precision hardened rod and 2 32 tooth GT2 pulleys
+  
+ 38. Starting with the front left rod, using the precision hardened rod you installed a rod end knob on, slide the rod into the hole drilled through the front extrusion.
+     
+     Example: ![alt text](./Photos/IMG_20150304_230752.jpg "Assembling the XY left side to the chassis")
+     
+ 39. As the rod enters the inside of the chassis install 1 10mm shim washer and then 1 32 tooth pulley with the teeth closest to the inside face of the extrusion.
+     
+     Example: ![alt text](./Photos/IMG_20150304_230809.jpg "Pulley")
+     
+ 40. Keeping the orientation that was previously established for the carriage feed the rod through the sintered bronze bushings of the XY tensioner B taking care to ensure that the bushings are on the top side of the tensioner.
+     
+     Example: ![alt text](./Photos/IMG_20150304_230752.jpg "Assembling the XY left side to the chassis")
+     
+ 41. Before feeding the other end of the rod into the bearing in the opposite side corner bearing bracket insert a 32 tooth pulley with the tooth side facing the corner bearing bracket.
+  
+     Example: ![alt text](./Photos/IMG_20150304_230819.jpg "Pulley")
+  
+ 42. Install a 10mm shim washer, then slide the end of the rod into the bearing.
+  
+ 43. Repeat steps 27 - 32 for all 4 rods making sure to keep things as aligned as possible.  The rods with the rod end knobs should be used for the 2 rods that go on the front left side and the left front side extrusions.
+  
+ 44. Locate one 1 meter section of GT2 belt.
+  
+ 45. Choose one side of the chassis and slide the end of the belt into the slot of the XY belt tensioner block taking care to slide the belt into the block until it is fully seated and the teeth of the belt have engaged in the block's teeth thus keeping the belt locked in place.
+  
+ 46. Locate 1 M3x25mm socket cap screw and 1 nylon lock nut.
+  
+ 47. Thread the screw through the screw hole in the tensioner block and install the nylon lock nut on the screw end.
+  
+ 48. Tighten the lock nut until the screw is snug, do not over tighten or you will crack the printed part.
+  
+ 49. Pass the GT2 belt around the 32 tooth pulley on the side of the block that you installed the belt end into.
+  
+ 50. Stretch the belt over the opposing 32 tooth pulley and back around to the XY belt tensioner.
+  
+ 51. Cut the belt to length leaving enough belt to fit through the belt slot of the tensioner to help with seating the belt.
+  
+ 52. Slide the belt end into the belt tensioner slot and seat the belt completely making sure that the teeth of the belt seat inside of the belt tensioner.
+  
+ 53. Locate 1 M3x25mm socket cap screw and 1 nylon lock nut.
+  
+ 54. Thread the screw through the screw hole in the tensioner and install the nylon lock nut ont he screw end.
+  
+ 55. Tighten the lock nut until the screw is snug.  Do not over tighten or you will crack the printed part.
+  
+ 56. Now using a hex wrench and 5.5mm socket wrench adjust each of the 50mm socket cap screws that run through the tensioner and tensioner block until the belt is tight but not guitar string tight.
+     
+     Example: ![alt text](./Photos/IMG_20150308_143536.jpg "Belt complete")
+     
+ 57. Repeat steps 35 through 46 for the remaining 3 sides.
+  
+ 58. You should now be able to use the 2 rod end knobs on the front and left side to move the XY carriage, like an Etch-a-sketch.
+
+## Front door assembly
+
+ 1. Locate 2 407.5mm 20x20mm extrusions
+ 
+ 2. Carefully tap each end of the extrusions
+    
+    Example: ![alt text](./Photos/IMG_20150308_205115.jpg "Tapped extrusion end")
+    
+ 3. Thread 1 M5x10mm button head screw into each end of each of the extrusions leaving approximately 3mm of thread showing.
+ 
+ 4. Locate the 20x20mm drill guide.
+ 
+ 5. Locate 2 567.5mm 20x20mm extrusions.
+ 
+ 6. Carefully tap each end of the extrusions.
+ 
+ 7. Using 3 M5x8mm button head screws and 2 T-Slot nuts install the drill guide on one of the 567.5mm extrusions.
+    
+    Example: ![alt text](./Photos/1424094010046.jpg "Drill guide 1")
+             ![alt text](./Photos/1424094009658.jpg "Drill guide 2")
+    
+ 8. Drill the first hole on one side of the extrusion drill guide through the extrusion.
+    
+    Example: ![alt text](./Photos/IMG_20150308_205508.jpg "Drill this hole")
+             ![alt text](./Photos/IMG_20150308_205806.jpg "Hole drilled")
+    
+ 9. Repeat steps 7 - 8 for each end of the 2 567.5mm 20x20mm extrusions.
+ 
+ 10. On a flat surface place one 567.5mm 20x20mm extrusion laying horizontal with the holes that were drilled facing toward you and away from you.
+ 
+ 11. Locate the 2 407.5mm 20x20mm extrusions that were previously tapped.
+ 
+ 12. on each end of the 567.5mm extrusion insert the head of the socket cap screw of each of the 407.5mm extrusions making a "U" shape.
+ 
+     Example: ![alt text](./Photos/IMG_20150308_210011.jpg "Extrusions placed")
+ 
+ 13. Keeping the extrusions flush on the edge pass a hex wrench through the drilled holes and tighten the button head screws.
+     
+     Example: ![alt text](./Photos/IMG_20150308_210124.jpg "Tightened down")
+     
+ 14. Lay the tightened door assembly down on a flat surface with the opening of the "U" facing away from you.
+    
+     Example: ![alt text](./Photos/IMG_20150308_210011.jpg "Orientation")
+    
+ 15. On the top side of the left 407.5mm extrusion insert 4 T-Slot nuts and hand tighten 1 M5x8mm flat head hex screw into each one to keep them from sliding.
+ 
+     Example: ![alt text](./Photos/IMG_20150308_210442.jpg "T-Slot nuts placed")
+ 
+ 16. On the top side of the right 407.5mm extrusion insert 2 T-Slot nuts and hand tighten 1 M5x16mm button head screw into each one to keep them from sliding.
+ 
+     Example: ![alt text](./Photos/IMG_20150308_210449.jpg "T-Slot nuts placed")
+ 
+ 17. Locate a section of T-Slot cover, a sharp knife and a measuring instrument.
+ 
+ 18. Measure and install the T-Slot cover upside down in each of the inner channels to hold the clear plexiglass cover.
+ 
+     Example: ![alt text](./Photos/IMG_20150308_211219.jpg "T-Slot covers installed")
+ 
+ 19. Install the plexiglass cover in the channels of the U.
+ 
+ 20. Slide the remaining 567.5mm 20x20mm extrusion onto the ends of the button head screws of the open side of the U shape and keep the edges flush while tightening down the assembly.
+     
+     Example: ![alt text](./Photos/IMG_20150308_211827.jpg "Cover installed")
+     
+ 21. Locate 2 extrusion hinges.
+ 
+ 22. Face the main chassis assembly, looking at the front side.
+ 
+ 23. On the left front corner 20x20mm vertical extrusion on the main chassis install 4 T-Slot nuts and hand tighten 1 M5x8mm flat head screw into each to keep them from sliding.
+     
+     Example: ![alt text](./Photos/IMG_20150308_212249.jpg "Preinstall screws")
+     
+ 24. Install the 2 extrusion hinges on the main chassis using the 4 T-Slot nuts and 4 5x8mm flat head screws installed in the previous step.
+ 
+     Example: ![alt text](./Photos/IMG_20150308_212646.jpg "Installed hinges")
+ 
+ 25. Using the 4 T-Slot nuts and 4 M5x8mm flat top screws previously installed on the front door, install the door on the main chassis.
+     
+     Example: ![alt text](./Photos/IMG_20150308_213306.jpg "Hinges attached to the door")
+              ![alt text](./Photos/IMG_20150308_213914.jpg "Door installed")
+     
+ 26. Locate the plastic door handle or a printed handle.
+ 
+ 27. Using the 2 T-Slot nuts and 2 M5x16mm button head screws installed previously in the right side of the front door, install the handle.
+ 
+     Example: ![alt text](./Photos/IMG_20150308_214035.jpg "Handle Installed")
