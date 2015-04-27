@@ -36,3 +36,6 @@ Icon
 .Trashes
 
 Sub Assemblies/~$Printed_2020_Hinge.SLDASM
+
+# Jetbrains file turds
+.idea
