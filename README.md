@@ -3,7 +3,7 @@ HercuLien
 
 HercuLien - Large Format, Dual Extrusion, Bowden/Direct Drive Modular, 3D Printer. Inspired by many... Created by me.
 
-![HercuLien 3D Printer Render Image](https://raw.githubusercontent.com/eclsnowman/HercuLien/master/Photos/Render1.PNG)
+![HercuLien 3D Printer Render Image](https://raw.githubusercontent.com/eclsnowman/HercuLien/master/Photos/HercuLien_Updates_03-07-15.PNG)
 
 This printer is the culmination of what I have learned so far since I started in 3D printing. My journey began when a friend of mine built a Prusa i3. The first time I saw his printer running I was hooked and knew I had to build one. But I was not happy with the 8"8"8" build volume of the i3. I wanted to design something bigger. At that time I had no 3D modeling experience. I figured it would be good training to learn Solidworks and design my own printer, that way once I actually built one I would have the skills to put it to use. My first attempt was my CoreXY design which is also uploaded to github. There were many things I liked about that printer, but speed and consistent print dimensions were not included in that list. 
 
