@@ -40,3 +40,6 @@ Sub Assemblies/~$Printed_2020_Hinge.SLDASM
 # Jetbrains file turds
 .idea
 Documentation/Drawings/Location (Top View) Of Vertical Z-Bed Vslot Guides.pdf
+
+# Solidworks temp files
+~$*

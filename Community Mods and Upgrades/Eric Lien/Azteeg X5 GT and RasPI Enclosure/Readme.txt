@@ -1,0 +1,5 @@
+So I am playing with a fun new (unreleased) controller and some drivers from +Roy Cortes??? at Panucatt. Dual extruder capable smoothieware based unit. I have been waiting to try this thing for a while. Just my luck. I get everything installed and now I have to travel for work next week. Guess I need to get some energy drinks and do my initial testing and tuning before I go.
+
+My Panucatt azteeg x3 has served me so well. It was sad to pull it off its home of so many years. But I am certain just like Roy's other boards this new board will be a bomb proof workhorse. And his new driver design/footprint is just amazing.
+
+My old front mounted hinged controller box and Viki LCD was just a little bit too tight a fit for the new board. So I designed a new box for the side of HercuLien which mounts the board above a Raspberry Pi3 running Octoprint and a new viki2 mount for the front.
