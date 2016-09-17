@@ -13,4 +13,5 @@ Once I had Eustathios up and running so well I wanted to change my CoreY to some
 
 Come follow me on google plus. I put up a lot of videos, photos, and general knowledge as I navigate through this addictive hobby: https://plus.google.com/+EricLiensMind.
 
-![Photo of HercuLien](https://raw.githubusercontent.com/eclsnowman/HercuLien/master/Photos/Assembled_HercuLien%20(13).jpg)
+![Photo of HercuLien](https://raw.githubusercontent.com/eclsnowman/HercuLien/master/Photos/New%20Pictures%208-30-16/IMG_20160830_212907-01.jpeg)
+(Photo of HercuLien with recent update to Azteeg X5 GT dual extruder smoothieware printer controller and Viki2 LCD)
