@@ -11,7 +11,7 @@ While I was fighting with my CoreXY design I started following Tim Rastall on Go
 
 Once I had Eustathios up and running so well I wanted to change my CoreY to something similar. I used the aluminum frame from the CoreXY and my z-axis design which had always performed perfectly. Then I redesigned the rest from scratch. I have been running this new design for several months. I call it HercuLien (due to it's size and my last name). It is an amazing printer. I can print at very high speeds. It has a large build volume, dual extrusion, and is easily enclosed for trouble free abs printing. If you build one I hope you enjoy it as much as I have. I also hope this can act as a jumping off point for someone else to build and even better printer.
 
-Come follow me on google plus. I put up a lot of videos, photos, and general knowledge as I navigate through this addictive hobby: https://plus.google.com/+EricLiensMind.
+Now that Google+ has died, the Community around the HercuLien printer and the Eustathios printer have moved to: https://forum.makerforums.info/c/herculien . This is thanks in great part to Michael K Johnson, who worked his magic to retain the years of great community interaction on G+ and ported it into the Discourse community over on Makerforums. If you are looking for support or community interaction on these printers moving forward, this is the place to go.
 
 ![Photo of HercuLien](https://raw.githubusercontent.com/eclsnowman/HercuLien/master/Photos/New%20Pictures%208-30-16/IMG_20160830_212907-01.jpeg)
 (Photo of HercuLien with recent update to Azteeg X5 GT dual extruder smoothieware printer controller and Viki2 LCD)
